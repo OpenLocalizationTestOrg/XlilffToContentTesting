@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.build-web-api-net-core.2-create-web-api
+metadata:
+  title: Exercise - Create a web API project
+  description: Learn how to create a web API project with ASP.NET Core.
+  ms.date: 04/20/2019
+  author: scottaddie
+  ms.author: scaddie
+  ms.topic: interactive-tutorial
+  ms.prod: learning-aspnetcore
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 0bde18cf71ea39efea7ef251817d150f540c68fc
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Create a web API project
+azureSandbox: true
+interactive: bash
+durationInMinutes: 8
+content: '[!include[](includes/2-create-web-api.md)]'

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.integrate-vnets-with-vnet-peering.5-exercise-verify-vnet-peering
+title: Exercise - Verify virtual network peering by using SSH between Azure virtual machines
+metadata:
+  title: Exercise - Verify virtual network peering by using SSH between Azure virtual machines
+  description: Verify virtual network peering using SSH (Secure Shell) between Azure virtual machines.
+  ms.date: 03/31/2019
+  author: jboeshart
+  ms.author: jaboes
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 496baee9b1ff01f69fc1b7f36072bcd4309fcb73
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+azureSandbox: true
+interactive: bash
+content: '[!include[](includes/5-exercise-verify-vnet-peering.md)]'

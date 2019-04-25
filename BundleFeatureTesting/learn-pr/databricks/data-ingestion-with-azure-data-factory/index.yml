@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn.data-ingestion-with-azure-data-factory
+metadata:
+  title: Data ingestion with Azure data factory
+  description: Learn how to read and write data by using Azure Databricks and multiple data sources and destinations.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 68e63446a9fd7c5720b076668487ddb6c4100300
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Data ingestion with Azure data factory
+summary: In this module, you use Azure Databricks to work with multiple data sources. Learn how to combine inputs from files and data stores, such as Azure SQL Database, and transform and store that data for advanced analytics.
+cardDescription: Learn how to read and write data by using Azure Databricks and multiple data sources and destinations.
+abstract: >
+  In this module, you'll:
+
+  - Use Azure Databricks to work with multiple data sources.
+
+  - Combine inputs from files and data stores such as Azure SQL Database.
+
+  - Transform and store that data for advanced analytics.
+prerequisites: >
+  [!include[](../../includes/azure-subscription-prerequisite.md)]
+iconUrl: /learn/achievements/data-ingestion-with-azure-data-factory.svg
+levels:
+- intermediate
+roles:
+- developer
+- solution-architect
+products:
+- azure
+- azure-databricks
+units:
+- learn.data-ingestion-with-azure-data-factory.1-introduction
+- learn.data-ingestion-with-azure-data-factory.2-azure-data-factory-databricks
+- learn.data-ingestion-with-azure-data-factory.3-create-adf-storage-account
+- learn.data-ingestion-with-azure-data-factory.4-complete-labs-in-azure-databricks
+- learn.data-ingestion-with-azure-data-factory.5-knowledge-check
+- learn.data-ingestion-with-azure-data-factory.6-summary-and-cleanup
+badge:
+  uid: learn.data-ingestion-with-azure-data-factory.badge

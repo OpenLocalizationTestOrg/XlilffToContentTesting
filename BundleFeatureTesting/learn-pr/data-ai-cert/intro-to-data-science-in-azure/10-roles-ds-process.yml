@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.intro-to-data-science-in-azure.roles-ds-process
+title: Specialized roles in the Data Science process
+metadata:
+  title: Specialized roles in the Data Science process
+  description: Specialized roles in the Data Science process
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c1f649ea6aeacde2fa254d2df5d958a192a3aba5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/10-roles-ds-process.md)]'

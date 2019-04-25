@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.principles-cloud-computing.2-what-is-cloud-computing
+title: What is cloud computing?
+metadata:
+  title: What is cloud computing?
+  description: What is cloud computing?
+  ms.date: 12/20/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ec60ac184a5ab83cb603ed4febeebd4b085e296b
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 8
+content: '[!include[](includes/2-what-is-cloud-computing.md)]'

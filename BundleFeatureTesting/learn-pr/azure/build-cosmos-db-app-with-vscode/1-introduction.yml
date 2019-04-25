@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.cosmos-db-app-with-vscode.1-introduction
+metadata:
+  title: Introduction
+  description: Introduction
+  ms.date: 09/24/2018
+  author: mimig1
+  ms.author: mimig
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 68a3a9a856a13e7973fe21cd7020e0aaaa1a46df
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Introduction
+durationInMinutes: 2
+content: '[!include[](includes/1-introduction.md)]'

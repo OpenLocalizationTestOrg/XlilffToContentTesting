@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.choose-messaging-model.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ebcd4b3d3bd58550a4eacb88c19b136e4d469a89
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/1-introduction.md)]'

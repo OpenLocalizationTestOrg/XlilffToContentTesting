@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.introduction-to-azure-virtual-machines.6-backup-services
+title: Back up your virtual machines
+metadata:
+  title: Back up your virtual machines
+  description: Back up your virtual machines
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 944c7b0d3ba5ce784644a59d51f25d4d7bf20b60
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 7
+content: '[!include[](includes/6-backup-services.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.gather-metrics-from-blob-storage.6-using-storage-analytics-logging
+title: Enable Storage Analytics logging
+metadata:
+  title: Enable Storage Analytics logging
+  description: Enable Storage Analytics logging
+  ms.date: 03/26/2019
+  author: rmcmurray
+  ms.author: robmcm
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1d37ce69d2f3bdc95a5f90d050cde58efc2ed6e1
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/6-using-storage-analytics-logging.md)]'

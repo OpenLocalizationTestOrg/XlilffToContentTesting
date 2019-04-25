@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.publish-azure-web-app-with-visual-studio.7-exercise-publish-an-update-to-your-site
+title: Publish an update to your site
+metadata:
+  title: Publish an update to your site
+  description: Publish an update to your site
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 4d9432dc9c43d7e1e06bbd8fc793120d36f8ea81
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/7-exercise-publish-an-update-to-your-site.md)]'

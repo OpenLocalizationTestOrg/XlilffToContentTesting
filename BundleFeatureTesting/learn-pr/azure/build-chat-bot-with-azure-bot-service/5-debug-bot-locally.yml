@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.build-azure-bot-services-bot.5-debug-bot-locally
+title: Debug the bot locally
+metadata:
+  title: Debug the bot locally
+  description: Debug the bot locally
+  ms.date: 09/24/2018
+  author: JeffProsise
+  ms.author: shanama
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5da1cffae33b60094388467d3aa4d3c503a8c1b3
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 20
+content: '[!include[](includes/5-debug-bot-locally.md)]'

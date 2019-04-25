@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.persist-data-ef-core.1-introduction
+metadata:
+  title: Introduction
+  description: Introduction
+  ms.date: 04/20/2019
+  author: scottaddie
+  ms.author: scaddie
+  ms.topic: interactive-tutorial
+  ms.prod: learning-aspnetcore
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 386a282b31044eb4a451429a7839443abbd9e54c
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Introduction
+durationInMinutes: 1
+content: '[!include[](includes/1-introduction.md)]'

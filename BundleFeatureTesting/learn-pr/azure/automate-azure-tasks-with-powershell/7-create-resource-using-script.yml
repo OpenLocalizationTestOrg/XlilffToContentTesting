@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.automate-azure-tasks-with-powershell.7-create-resource-using-script
+title: Create and save scripts in Azure PowerShell
+metadata:
+  title: Create and save scripts in Azure PowerShell
+  description: Create and save scripts in Azure PowerShell
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 69a85ffc1f788a210b37e94aee2d40353ebd1298
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/7-create-resource-using-script.md)]'

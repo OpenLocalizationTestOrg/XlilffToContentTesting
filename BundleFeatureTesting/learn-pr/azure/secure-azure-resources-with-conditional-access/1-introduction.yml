@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.secure-access-azure-ad-multi-factor-authentication.1-introduction
+metadata:
+  title: Introduction
+  description: Secure access to resources using Azure AD, conditional access, and Azure Multi-Factor Authentication
+  ms.date: 04/15/2019
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a2380c44c5cc59ab40583c16a3ad2decf98b9b33
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Introduction
+durationInMinutes: 3
+content: '[!include[](includes/1-introduction.md)]'

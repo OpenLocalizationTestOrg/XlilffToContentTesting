@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.import-data-into-asdw-with-polybase.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e4e718bc70567491b81f206420827e3a73220b50
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/1-introduction.md)]'

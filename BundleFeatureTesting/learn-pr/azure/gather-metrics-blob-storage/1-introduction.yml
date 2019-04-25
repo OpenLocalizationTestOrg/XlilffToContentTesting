@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.gather-metrics-from-blob-storage.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction
+  ms.date: 03/26/2019
+  author: rmcmurray
+  ms.author: robmcm
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 06236edf7131bbc802b8f6bc3359cea4240d99b4
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/1-introduction.md)]'

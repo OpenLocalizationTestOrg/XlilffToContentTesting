@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.read-and-write-data-using-azure-databricks.3-complete-labs-in-azure-databricks
+title: Exercise - Read and write data by using Azure Databricks
+metadata:
+  title: Exercise - Read and write data by using Azure Databricks
+  description: Learn how to connect to the preconfigured lab environment and import the notebook labs.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 6dda021ea718e801b2f3da4788b3113c1fb2cde5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 30
+content: '[!include[](includes/3-complete-labs-in-azure-databricks.md)]'

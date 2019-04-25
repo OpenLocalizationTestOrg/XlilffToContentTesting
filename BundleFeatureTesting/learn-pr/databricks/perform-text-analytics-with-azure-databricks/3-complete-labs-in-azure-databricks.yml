@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.performing-text-analytics-with-azure-databricks.3-complete-labs-in-azure-databricks
+metadata:
+  title: Exercise- Text analytics using Azure Databricks
+  description: Learn how to connect to the preconfigured lab environment and import the notebook labs.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: a8a7327fd78a346919239fa8e20b88e6fb9317a9
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise- Text analytics using Azure Databricks
+durationInMinutes: 45
+content: '[!include[](includes/3-complete-labs-in-azure-databricks.md)]'

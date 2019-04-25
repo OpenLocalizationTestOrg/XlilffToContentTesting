@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.introduction-to-azure-areas-and-solutions.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Microsoft Azure is an ever-expanding set of cloud services that can help your organization meet its business challenges. It lets you build, manage, and deploy applications on a massive, global network by using your favorite tools and frameworks.
+  ms.date: 01/31/2019
+  author: Randall-Knapp
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a5935bdc05f20b94795425cc1d9a02cf170c3ea2
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 1
+content: '[!include[](includes/1-introduction.md)]'

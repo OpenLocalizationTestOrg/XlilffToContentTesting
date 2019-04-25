@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.intro-to-azure-databricks.4-using-notebooks
+title: Exercise - Using Apache Spark notebooks
+metadata:
+  title: Exercise - Using Apache Spark notebooks
+  description: Learn how to use Apache Spark notebooks.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 6438bad5e2ddfba7e8a554faab4e65d3376acf7c
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 20
+content: '[!include[](includes/4-using-notebooks.md)]'

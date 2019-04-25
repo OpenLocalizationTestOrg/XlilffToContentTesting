@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.provision-and-use-azure-dsvm.connect-dsvm
+title: Exercise - Connect to a DSVM
+metadata:
+  title: Exercise - Connect to a DSVM
+  description: Exercise - Connect to a DSVM
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 0440d51bd7445751c08ee3568596af0d119238c7
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/3-connect-dsvm.md)]'

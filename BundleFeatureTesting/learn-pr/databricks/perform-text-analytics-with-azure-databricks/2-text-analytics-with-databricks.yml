@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.performing-text-analytics-with-azure-databricks.2-text-analytics-with-databricks
+metadata:
+  title: Text analytics with Azure Databricks
+  description: Setup the required services in your Azure subscription.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: bfa3e87b6b616c0d34149c27f1e08bd645909aa1
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Text analytics with Azure Databricks
+durationInMinutes: 5
+content: '[!include[](includes/2-text-analytics-with-databricks.md)]'

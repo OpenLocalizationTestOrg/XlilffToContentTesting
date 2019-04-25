@@ -1,0 +1,7 @@
+---
+ms.openlocfilehash: f746fed78aec3ed41621c0efd6e064be09ec635e
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 04/24/2019
+---
+In this module, you learned about role-based access control (RBAC) and how you can use it to secure your Azure resources. To grant access, you assign users a role at a particular scope. Using RBAC, you can grant only the amount of access to users that they need to perform their jobs. RBAC has over 70 built-in roles, but if your organization needs specific permissions, you can create your own custom roles. Azure keeps track of your RBAC changes, in case you need to see what changes were made in the past.

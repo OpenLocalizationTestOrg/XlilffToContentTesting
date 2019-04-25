@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.run-docker-containers-aci.2-run-aci
+metadata:
+  title: Run Azure Container Instances
+  description: Run Azure Container Instances.
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: fc4519a86dca813139d19fa7662ca302478f0792
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Run Azure Container Instances
+durationInMinutes: 5
+interactive: bash
+azureSandbox: true
+content: >
+  [!include[](includes/2-run-aci.md)]
+tasks:
+- action: exists
+  environment: azure
+  azure:
+    resource:
+      type: Microsoft.ContainerInstance/containerGroups
+  hint: Make sure to create the container groups.

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.identify-faces-with-computer-vision.overview-of-the-face-api
+title: Overview of the Face API
+metadata:
+  title: Overview of the Face API
+  description: Understand the Face API in Azure Cognitive Services
+  ms.date: 01/7/2019
+  author: gerryaobrien
+  ms.author: gerryo
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: f5a7addcae7c2b8e2dd4225a2aa3a35180da9343
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/2-overview-of-the-face-api.md)]'

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.get-started-with-devops.4-create-an-azure-devops-account
+metadata:
+  title: Exercise - Create an Azure DevOps account
+  description: Create an Azure DevOps account
+  ms.openlocfilehash: 1e0b3500656690ea5c35f257e9edec702a8a44f1
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Create an Azure DevOps account
+durationInMinutes: 10
+content: '[!include[](includes/4-create-an-azure-devops-account.md)]'

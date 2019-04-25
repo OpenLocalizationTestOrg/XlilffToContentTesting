@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.classify-user-feedback-with-the-text-analytics-api.4-design-a-feedback-sorter
+metadata:
+  title: Design a feedback sorter
+  description: Let's consider a real-world scenario for times when sentiment analysis might come in handy. Here we talk about the scenario and how to implement it using Azure Functions and the Text Analytics API.
+  ms.date: 09/24/2018
+  author: AndrewJByrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 917b5832ad89680dc6054c157205abba7d8761e5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Design a feedback sorter
+durationInMinutes: 6
+content: '[!include[](includes/4-design-a-feedback-sorter.md)]'

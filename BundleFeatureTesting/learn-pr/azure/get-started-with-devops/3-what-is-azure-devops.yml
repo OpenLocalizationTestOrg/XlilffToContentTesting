@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.get-started-with-devops.3-what-is-azure-devops
+metadata:
+  title: What is Azure DevOps?
+  description: What is Azure DevOps?
+  ms.openlocfilehash: 30f485638d0ccf02095868b5f55245e8543d2f86
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: What is Azure DevOps?
+durationInMinutes: 10
+content: '[!include[](includes/3-what-is-azure-devops.md)]'

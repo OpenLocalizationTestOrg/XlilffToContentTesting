@@ -1,0 +1,35 @@
+### YamlMime:ModuleUnit
+uid: learn.run-web-app-background-task-with-webjobs.2-what-are-webjobs
+title: What are WebJobs?
+metadata:
+  title: What are WebJobs?
+  description: In this unit, you will learn about WebJobs and how they differ from Azure Functions.
+  ms.date: 4/17/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c40d6c369f90a636c5047abf1469509265371b3f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 7
+content: >
+  [!include[](includes/2-what-are-webjobs.md)]
+quiz:
+  title: What are WebJobs?
+  questions:
+  - content: You have a procedure, written in C#, that you want to execute on a schedule. You don't want to create an App Service resource. Which kind of object should you create?
+    choices:
+    - content: A continuous WebJob
+      isCorrect: false
+      explanation: You can only create a WebJobs inside an App Service resource, such as a web app, mobile app, or web API. Instead, create an Azure Function.
+    - content: A triggered WebJob
+      isCorrect: false
+      explanation: You can only create a WebJobs inside an App Service resource, such as a web app, mobile app, or web API. Instead, create an Azure Function.
+    - content: An Azure Function
+      isCorrect: true
+      explanation: You can create an Azure Function without creating any App Service resource, such as a web app, mobile app, or web API.

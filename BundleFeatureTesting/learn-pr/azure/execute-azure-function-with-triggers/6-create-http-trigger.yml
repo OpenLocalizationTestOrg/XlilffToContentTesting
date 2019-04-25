@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.execute-azure-function-with-triggers.6-create-http-trigger
+title: Create an HTTP trigger
+metadata:
+  title: Create an HTTP trigger and run an Azure Function with an HTTP request
+  description: Create an HTTP trigger
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 9d843ade55f15b4b64ed205fa2b12a7039059173
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 15
+content: '[!include[](includes/6-create-http-trigger.md)]'

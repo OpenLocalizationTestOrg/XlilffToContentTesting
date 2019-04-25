@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.provision-and-use-azure-dsvm.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 9ab3f8dfa895643814006416c9f0bd910a194559
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/1-introduction.md)]'

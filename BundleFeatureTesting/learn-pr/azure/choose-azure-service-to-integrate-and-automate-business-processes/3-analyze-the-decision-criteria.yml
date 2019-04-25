@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.choose-azure-service-to-integrate-and-automate-business-processes.3-analyze-the-decision-criteria
+title: Analyze the decision criteria
+metadata:
+  title: Analyze the decision criteria
+  description: Analyze the decision criteria
+  ms.date: 04/10/2019
+  author: AndrewJByrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: afb87a627011ebff3b8bc7360960a7ef6614c2b5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 6
+content: '[!include[](includes/3-analyze-the-decision-criteria.md)]'

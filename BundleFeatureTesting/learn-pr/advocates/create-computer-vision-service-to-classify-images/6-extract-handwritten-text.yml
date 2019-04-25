@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.create-computer-vision-service.6-extract-handwritten-text
+title: Detect and extract handwritten text from an image
+metadata:
+  title: Detect and extract handwritten text from an image
+  description: Detect and extract handwritten text from an image
+  ms.date: 09/24/2018
+  author: AndrewJByrne
+  ms.author: marouill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 93e6c602847a77ae67b04eb702db724b4dee03ec
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 5
+content: '[!include[](includes/6-extract-handwritten-text.md)]'

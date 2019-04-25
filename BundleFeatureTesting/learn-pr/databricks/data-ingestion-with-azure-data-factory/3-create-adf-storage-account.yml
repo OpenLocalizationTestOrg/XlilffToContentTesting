@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ingestion-with-azure-data-factory.3-create-adf-storage-account
+title: Create an Azure storage account and an Azure Data Factory instance
+metadata:
+  title: Create an Azure storage account and an Azure Data Factory instance
+  description: How to set up the required services in your Azure subscription.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 97be57f9058ee27a5ca137b913adb41a7ce34adf
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/3-create-adf-storage-account.md)]'

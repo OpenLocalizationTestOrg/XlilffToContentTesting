@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.store-app-data-with-azure-blob-storage.6-getting-blob-references
+title: Getting blob references
+metadata:
+  title: Getting blob references
+  description: Getting blob references
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 33349dee5ed59c605f18de1c55ce591917ad29d9
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+interactive: bash-editor
+azureSandbox: true
+content: '[!include[](includes/6-getting-blob-references.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.logic-apps-and-custom-connectors.2-connectors-for-azure-logic-apps
+title: Connectors for Azure Logic Apps
+metadata:
+  title: Connectors for Azure Logic Apps
+  description: In this unit, you will learn about connectors and how they help you to orchestrate systems in a workflow.
+  ms.date: 04/11/2019
+  author: andrewjbyrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e250a59d5d4e88f7bf641278a53d634125ea4c06
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/2-connectors-for-azure-logic-apps.md)]'

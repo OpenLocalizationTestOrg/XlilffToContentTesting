@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.support-concurrency-blob-storage.4-implementing-optimistic-concurrency
+title: Implementing optimistic concurrency
+metadata:
+  title: Implementing optimistic concurrency
+  description: Implementing optimistic concurrency
+  ms.date: 04/06/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: exercise
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e6a370343c809dc37d6a72d5666341522403256c
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 6
+content: '[!include[](includes/4-implementing-optimistic-concurrency.md)]'

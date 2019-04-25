@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.capture-application-logs-app-service.6-retrieve-application-log-files-from-an-application
+title: Retrieve Application Log Files
+metadata:
+  title: Retrieve Application Log Files
+  description: Retrieve Application Log Files
+  ms.date: 03/20/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 02d53e859caab8ef28df3c00d36f7532d273d01a
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 6
+content: '[!include[](includes/6-retrieve-application-log-files-from-an-application.md)]'

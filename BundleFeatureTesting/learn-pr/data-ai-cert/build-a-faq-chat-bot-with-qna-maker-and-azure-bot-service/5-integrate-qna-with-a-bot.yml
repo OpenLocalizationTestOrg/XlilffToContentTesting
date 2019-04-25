@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.build-a-faq-chat-bot-with-qna-maker-and-azure-bot-service.integrate-qna-with-a-bot
+title: Exercise - Integrate QnA with a bot
+metadata:
+  title: Exercise - Integrate QnA with a bot
+  description: Integrate your QnA knowledge base with a simple chatbot and the Azure Bot Service
+  ms.date: 2/25/2019
+  author: gerryaobrien
+  ms.author: gerryo
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 2e821c7479df135c3d1f68858012418667aab4e4
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/5-integrate-qna-with-a-bot.md)]'

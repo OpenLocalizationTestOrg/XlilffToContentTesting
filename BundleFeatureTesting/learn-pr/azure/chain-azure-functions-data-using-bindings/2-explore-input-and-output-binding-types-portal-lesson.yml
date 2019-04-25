@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.chain-azure-functions-data-using-input-output-bindings.2-explore-input-and-output-binding-types-portal-lesson
+metadata:
+  title: Explore input and output binding types
+  description: In this unit, we'll use the Azure portal to explore and understand bindings and the array of supported bindings that are available to us.
+  ms.date: 09/24/2018
+  author: andrewjbyrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ded9cbea95c8575d3e7b281314870e0c44dbaada
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Explore input and output binding types
+durationInMinutes: 10
+content: '[!include[](includes/2-explore-input-and-output-binding-types-portal-lesson.md)]'

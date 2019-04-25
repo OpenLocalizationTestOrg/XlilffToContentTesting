@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.provision-azure-sql-db.4-connect-add-data
+title: Connect to your database and add sample data
+metadata:
+  title: Connect to your database and add sample data
+  description: Connect to your database and add sample data
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 30af7ee51556643e982e5e74c4140859ed606ec2
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 15
+content: '[!include[](includes/4-connect-add-data.md)]'

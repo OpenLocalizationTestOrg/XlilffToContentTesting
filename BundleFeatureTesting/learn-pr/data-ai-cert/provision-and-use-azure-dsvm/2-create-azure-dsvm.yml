@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.provision-and-use-azure-dsvm.create-azure-dsvm
+title: Exercise - Create an Azure Data Science Virtual Machine
+metadata:
+  title: Exercise - Create an Azure Data Science Virtual Machine
+  description: Exercise - Create an Azure Data Science Virtual Machine
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b34a2b70475a976c6160540691e9df8a8d847cad
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+azureSandbox: true
+content: '[!include[](includes/2-create-azure-dsvm.md)]'

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.intro-to-azure-databricks.3-databricks-notebooks
+title: Apache Spark notebooks
+metadata:
+  title: Apache Spark notebooks
+  description: Learn how to create Apache Spark notebooks and clusters.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 0044cb686c3909ec4b8901a41170f972a4721b3d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/3-databricks-notebooks.md)]'

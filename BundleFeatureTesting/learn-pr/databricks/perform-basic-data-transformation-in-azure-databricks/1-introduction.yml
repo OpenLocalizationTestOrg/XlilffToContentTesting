@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.perform-basic-data-transformation-in-azure-databricks.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to performing basic data transformations in Azure Databricks.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 9ce888b69be709ab862e0a07fb7626af4f317d41
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/1-introduction.md)]'

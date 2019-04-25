@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.app-and-infra-migration-and-modernization.3-application-portfolio-assessment
+title: Application portfolio assessment
+metadata:
+  title: Application portfolio assessment
+  description: Application portfolio assessment
+  ms.date: 01/31/2019
+  author: maargued
+  ms.author: maargued
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 2cfcf9546ef7163c4fc27c7278136f6a4db346d5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 11
+content: '[!include[](includes/3-Application-portfolio-assessment.md)]'

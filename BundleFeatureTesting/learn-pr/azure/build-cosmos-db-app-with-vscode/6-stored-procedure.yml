@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.cosmos-db-app-with-vscode.6-stored-procedure
+metadata:
+  title: Create and run stored procedures from your app
+  description: Create and run stored procedures from your app
+  ms.date: 09/24/2018
+  author: mimig1
+  ms.author: mimig
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: dfc1943383fb128c188b8544664dfb9776201d7d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Create and run stored procedures from your app
+durationInMinutes: 7
+content: '[!include[](includes/6-stored-procedure.md)]'

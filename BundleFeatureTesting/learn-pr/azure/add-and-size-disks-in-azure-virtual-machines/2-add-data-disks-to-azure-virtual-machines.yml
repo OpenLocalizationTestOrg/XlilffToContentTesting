@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.add-and-size-disks-in-azure-virtual-machines.2-add-data-disks-to-azure-virtual-machines
+title: Understand storage options for virtual machines (VMs)
+metadata:
+  title: Understand storage options for virtual machines (VMs)
+  description: Understand storage options for virtual machines (VMs)
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: cdbb9a85906b6507514951f7b1d27c777de42495
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/2-add-data-disks-to-azure-virtual-machines.md)]'

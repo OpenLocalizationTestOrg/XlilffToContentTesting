@@ -1,0 +1,19 @@
+### YamlMime:Achievements
+achievements:
+- uid: learn.make-your-virtual-machines-highly-available.badge
+  type: badge
+  title: Make your virtual machines highly available
+  summary: Make your virtual machines highly available
+  iconUrl: /learn/achievements/make-your-virtual-machines-highly-available.svg
+- uid: learn.scale-and-size-virtual-machines.badge
+  type: badge
+  title: Scale and size Virtual Machines in Azure
+  summary: Scale and size Virtual Machines in Azure
+  iconUrl: /learn/achievements/scale-and-size-virtual-machines.svg
+metadata:
+  ms.openlocfilehash: 792c5e4b469444e32af9d948af282a73f63da6d6
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''

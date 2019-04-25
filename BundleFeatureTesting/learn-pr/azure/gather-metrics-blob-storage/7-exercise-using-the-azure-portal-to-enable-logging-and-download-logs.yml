@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.gather-metrics-from-blob-storage.7-exercise-using-the-azure-portal-to-enable-logging-and-download-logs
+title: Exercise - Use the Azure portal to enable logging
+metadata:
+  title: Exercise - Use the Azure portal to enable logging
+  description: Use the Azure portal to enable logging
+  ms.date: 03/26/2019
+  author: rmcmurray
+  ms.author: robmcm
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 8a88204fe14d5b6834d2200901a7f89d64870bbd
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 15
+content: >
+  [!include[](includes/7-exercise-using-the-azure-portal-to-enable-logging-and-download-logs.md)]
+tasks:
+- action: exists
+  environment: azure
+  hint: Follow the directions to create a custom dashboard with storage metrics.
+  azure:
+    resource:
+      type: Microsoft.Storage/storageAccounts
+      kind: StorageV2

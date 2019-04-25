@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.perform-basic-data-transformation-in-azure-databricks.5-summary-and-cleanup
+title: Summary and cleanup
+metadata:
+  title: Summary and cleanup
+  description: Clean up and delete Azure resources used by this lab.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: a94d8e01267a28a1127a103f56466e1ba97189c3
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/5-summary-and-cleanup.md)]'

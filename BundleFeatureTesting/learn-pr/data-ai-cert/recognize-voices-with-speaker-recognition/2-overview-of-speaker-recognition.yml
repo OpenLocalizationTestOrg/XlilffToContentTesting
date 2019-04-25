@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.recognize-voices-with-speaker-recognition.overview-of-speaker-recognition
+title: Overview of speaker recognition
+metadata:
+  title: Overview of speaker recognition
+  description: Overview of speaker recognition and the differences between speaker verification and speaker identification.
+  ms.date: 01/11/2019
+  author: gerryaobrien
+  ms.author: gerryo
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 06412a12ec494b9365e96f43fd8fd807f6b113d5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 7
+content: '[!include[](includes/2-overview-of-speaker-recognition.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.align-requirements-in-azure.4-iaas
+title: Infrastructure as a service
+metadata:
+  title: IaaS
+  description: Learn about infrastructure as a service and if it might be the right choice for your application
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: cf31081f722cd5485cb9c9a28e53aa8fab07b8b3
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 4
+content: '[!include[](includes/4-iaas.md)]'

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.secure-your-azure-virtual-machine-disks.6-exercise-use-arm-template-to-decrypt-vm
+title: Exercise - Use a Resource Manager template to decrypt the VM
+metadata:
+  title: Exercise - Use a Resource Manager template to decrypt the VM
+  description: Exercise - Use a Resource Manager template to decrypt the VM
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5638ff1d3471f0067cc34a62839a171041e2135b
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 10
+content: '[!include[](includes/6-exercise-use-arm-template-to-decrypt-vm.md)]'

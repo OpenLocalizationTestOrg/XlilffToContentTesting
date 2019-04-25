@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.tour-azure-portal-features.5-exercise-navigate-the-portal
+title: Exercise - Use the Azure portal
+metadata:
+  title: Exercise - Use the Azure portal
+  description: Use the Azure portal to explore some of the most common blades you use in the Azure portal to create and manage services.
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 0be84b548ae12a077a05839f82de3ddb1009c8bd
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 10
+content: '[!include[](includes/5-exercise-navigate-the-portal.md)]'

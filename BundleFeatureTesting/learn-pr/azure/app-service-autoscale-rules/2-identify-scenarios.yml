@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.app-service-autoscale-rules.2-identify-scenarios
+title: Identify suitable scenarios for autoscaling
+metadata:
+  title: Identify suitable scenarios for autoscaling
+  description: Identify scenarios for which autoscaling is a suitable solution.
+  ms.date: 04/10/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 832f17122a79d1a7f999e745177dabe918c928ae
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/2-identify-scenarios.md)]'

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.classify-user-feedback-with-the-text-analytics-api.6-exercise-discover-sentiment
+title: Exercise - Call the Text Analytics API from an app
+metadata:
+  title: Exercise - Call the Text Analytics API from an app
+  description: We're ready to make calls to the Text Analytics API from our function. This lab adds the code to do just that.
+  ms.date: 09/24/2018
+  author: AndrewJByrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4c9c8fb42e150d1da5d4d38e24532584fbb0f789
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 9
+content: '[!include[](includes/6-exercise-discover-sentiment.md)]'

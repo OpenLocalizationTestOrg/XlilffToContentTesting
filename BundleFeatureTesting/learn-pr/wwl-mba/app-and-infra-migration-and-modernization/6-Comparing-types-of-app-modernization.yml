@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.app-and-infra-migration-and-modernization.6-comparing-types-of-app-modernization
+title: Comparing types of app modernization
+metadata:
+  title: Comparing types of app modernization
+  description: Comparing types of app modernization
+  ms.date: 01/31/2019
+  author: maargued
+  ms.author: maargued
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 57727fa603d87a807458113d02d1325b5ef2ad4f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 4
+content: '[!include[](includes/6-Comparing-types-of-app-modernization.md)]'

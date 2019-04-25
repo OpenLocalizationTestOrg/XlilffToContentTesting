@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.5-exercise-configure-applications-to-send-or-receive-messages-through-an-event-hub
+title: Exercise - Configure applications to send or receive messages through an Event Hub
+metadata:
+  title: Exercise - Configure applications to send or receive messages through an Event Hub
+  description: Configure applications to send or receive messages through an Event Hub
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: dd61d603b68826000437084a31205bd48454aa7e
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 10
+content: '[!include[](includes/5-exercise-configure-applications-to-send-or-receive-messages-through-an-event-hub.md)]'

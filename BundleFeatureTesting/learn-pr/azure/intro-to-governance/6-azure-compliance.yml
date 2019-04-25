@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.intro-to-compliance.6-azure-compliance
+title: Explore your service compliance with Compliance Manager
+metadata:
+  title: Explore your service compliance with Compliance Manager
+  description: Explore your service compliance with Compliance Manager
+  ms.date: 12/27/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: cad7ee61835fd1f691b2e4bbd3931540cdfb1a34
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 8
+content: '[!include[](includes/6-azure-compliance.md)]'

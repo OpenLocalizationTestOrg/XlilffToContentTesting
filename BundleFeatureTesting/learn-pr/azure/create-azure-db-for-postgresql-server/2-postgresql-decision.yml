@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.create-azure-db-for-postgresql.postgresql-decision
+title: The Azure Database for PostgreSQL offering
+metadata:
+  title: The Azure Database for PostgreSQL offering
+  description: Determine if Azure Database for PostgreSQL is the right storage option for you.
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 779ae9f48dc2e74818095eb0133f344b475f6058
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/2-postgresql-decision.md)]'

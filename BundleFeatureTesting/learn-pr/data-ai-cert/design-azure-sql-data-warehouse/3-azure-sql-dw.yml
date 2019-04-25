@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.design-azure-sql-data-warehouse.azure-sql-dw
+title: Understand Azure SQL Data Warehouse
+metadata:
+  title: Understand Azure SQL Data Warehouse
+  description: Understand Azure SQL Data Warehouse
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 82452104d413d9843c07c9bf4c92e4b10f0ed24b
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/3-azure-sql-dw.md)]'

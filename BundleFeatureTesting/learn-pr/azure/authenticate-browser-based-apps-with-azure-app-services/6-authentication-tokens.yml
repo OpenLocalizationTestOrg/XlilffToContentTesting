@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.authenticate-browser-based-apps-with-azure-app-services.6-authentication-tokens
+title: Authentication tokens
+metadata:
+  title: Authentication tokens
+  description: Authentication tokens
+  ms.date: 03/27/2019
+  author: adrianstevens
+  ms.author: adsteven
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 45e712be325efb22bd419381110375fcec3140d5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/6-authentication-tokens.md)]'

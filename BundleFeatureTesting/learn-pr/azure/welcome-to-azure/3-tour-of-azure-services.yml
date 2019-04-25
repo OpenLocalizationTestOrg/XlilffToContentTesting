@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.welcome-to-azure.3-tour-of-azure-services
+title: Tour of Azure services
+metadata:
+  title: Tour of Azure services
+  description: Tour of Azure services
+  ms.date: 1/1/2019
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 92f27e61de1a4aa4d6c2360fc53dfa903832d549
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/3-tour-of-azure-services.md)]'

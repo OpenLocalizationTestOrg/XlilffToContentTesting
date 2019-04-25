@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.intro-to-compliance.5-azure-blueprints
+title: Define standard resources with Azure Blueprints
+metadata:
+  title: Define standard resources with Azure Blueprints
+  description: Define standard resources with Azure Blueprints.
+  ms.date: 12/27/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1e91a0acd81cb3bf1b7ec377bfe1352614f582ae
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/5-azure-blueprints.md)]'

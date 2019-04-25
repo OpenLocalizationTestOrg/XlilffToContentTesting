@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.azure-container-registry.deploy-image
+metadata:
+  title: Exercise - Deploy images from Azure Container Registry
+  description: Deploy images from Azure Container Registry
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4630e26f90b7966af5d2584d87e053936c868dc6
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Deploy images from Azure Container Registry
+durationInMinutes: 20
+interactive: bash
+azureSandbox: true
+content: '[!include[](includes/4-deploy-image.md)]'

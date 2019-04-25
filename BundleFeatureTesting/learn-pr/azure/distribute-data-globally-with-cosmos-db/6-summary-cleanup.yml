@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.distribute-data-globally-with-cosmos-db.6-summary-cleanup
+metadata:
+  title: Summary and cleanup
+  description: Summary and cleanup
+  ms.date: 09/24/2018
+  author: mimig1
+  ms.author: mimig
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: cf73a4ef8578712fd72181bdd3d4751ccf8bb113
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Summary and cleanup
+azureSandbox: true
+durationInMinutes: 1
+content: '[!include[](includes/6-summary-cleanup.md)]'

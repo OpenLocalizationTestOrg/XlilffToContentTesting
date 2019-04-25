@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn.persist-data-ef-core.5-write-crud-queries
+metadata:
+  title: Exercise - Write CRUD queries
+  description: Learn how to write Create, Read, Update, Delete (CRUD) queries in Entity Framework Core.
+  ms.date: 04/20/2019
+  author: scottaddie
+  ms.author: scaddie
+  ms.topic: interactive-tutorial
+  ms.prod: learning-aspnetcore
+  ROBOTS: NOINDEX
+  zone_pivot_groups: ef-core-data-access-syntax
+  ms.openlocfilehash: 3bc44bb05aebf1f6caba4c43be5532ec2d55d043
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Write CRUD queries
+azureSandbox: true
+interactive: bash-editor
+durationInMinutes: 10
+content: '[!include[](includes/5-write-crud-queries.md)]'

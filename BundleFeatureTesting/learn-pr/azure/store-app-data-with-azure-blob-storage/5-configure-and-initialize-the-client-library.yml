@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.store-app-data-with-azure-blob-storage.5-configure-and-initialize-the-client-library
+title: Configure and initialize the client library
+metadata:
+  title: Configure and initialize the client library
+  description: Configure and initialize the client library
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: f79987228c4ee6c48218194c24d8ccf949445d9d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+interactive: bash-editor
+azureSandbox: true
+content: '[!include[](includes/5-configure-and-initialize-the-client-library.md)]'

@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.create-serverless-logic-with-functions.5-add-logic-to-the-function-app
+title: Add logic to the function app
+metadata:
+  title: Add logic to the function app
+  description: Add the business logic + trigger into the Function App
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 7e9f716d4dc1b379a0cc036bc8e9421ef6b05659
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 10
+content: '[!include[](includes/5-add-logic-to-the-function-app.md)]'

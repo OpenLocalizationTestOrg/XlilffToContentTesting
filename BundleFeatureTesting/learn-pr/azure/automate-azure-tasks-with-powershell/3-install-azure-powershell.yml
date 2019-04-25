@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.automate-azure-tasks-with-powershell.3-install-azure-powershell
+title: Install PowerShell
+metadata:
+  title: Install PowerShell
+  description: Install PowerShell
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 06894971ba21680a0c37de15e6268411f84a687f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/3-install-azure-powershell.md)]'

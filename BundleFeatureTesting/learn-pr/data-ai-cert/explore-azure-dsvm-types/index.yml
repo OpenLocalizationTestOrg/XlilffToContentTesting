@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn.data-ai.explore-azure-dsvm-types
+metadata:
+  title: Explore the types of Azure Data Science Virtual Machines
+  description: You learn about the types of Azure Data Science Virtual Machines (DSVM) and when to use each type.  You will learn about the Windows-based and Linux-based DSVMs which each support different needs.
+  ms.date: 03/18/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 27cf3fe108012f085e050a3f994bf32ee04282fc
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Explore the types of Azure Data Science Virtual Machines
+summary: You learn about the types of Azure Data Science Virtual Machines (DSVM) and when to use each type.  You will learn about the Windows-based and Linux-based DSVMs which each support different needs.
+abstract: >
+  In this module, you will:
+
+  - Learn how to create Windows-based and Linux-based DSVMs
+
+  - Explore the Deep Learning Data Science Virtual Machines
+
+  - Work with Geo AI Data Science Virtual Machines
+prerequisites: None
+iconUrl: /learn/achievements/data-ai/explore-azure-dsvm-types-badge.svg
+levels:
+- beginner
+roles:
+- data-scientist
+products:
+- azure
+units:
+- learn.data-ai.explore-azure-dsvm-types.introduction
+- learn.data-ai.explore-azure-dsvm-types.windows-dsvms
+- learn.data-ai.explore-azure-dsvm-types.deep-learning-vm
+- learn.data-ai.explore-azure-dsvm-types.geo-ai-vm
+- learn.data-ai.explore-azure-dsvm-types.summary
+badge:
+  uid: learn.data-ai.explore-azure-dsvm-types.badge

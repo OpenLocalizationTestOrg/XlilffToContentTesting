@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.intro-to-azure-government.7-purchase-azure-government
+title: Try or buy Azure Government
+metadata:
+  title: Try or buy Azure Government
+  description: Find out how to get trial access or purchase a subscription to Azure Government.
+  ms.date: 10/11/2018
+  author: AndrewJByrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 0b1d9f7902fd8f46722987e1481b4413d49823f5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/7-purchase-azure-government.md)]'

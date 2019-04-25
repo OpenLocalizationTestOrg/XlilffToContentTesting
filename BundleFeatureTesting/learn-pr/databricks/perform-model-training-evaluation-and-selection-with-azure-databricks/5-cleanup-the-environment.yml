@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.performing-model-training-evaluation-and-selection-with-azure-databricks.5-cleanup-the-environment
+metadata:
+  title: Clean up the environment
+  description: Clean up and remove Azure resources used by this lab.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 38f0f2b727b7daec8e95dd2e8007dbcab21c039f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Clean up the environment
+durationInMinutes: 2
+content: '[!include[](includes/5-cleanup-the-environment.md)]'

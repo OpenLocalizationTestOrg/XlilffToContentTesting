@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.identify-faces-with-computer-vision.introducing-emotion
+title: Introduction to the Emotion API
+metadata:
+  title: Introduction to the Emotion API
+  description: Get an introduction to the Emotion API
+  ms.date: 01/7/2019
+  author: gerryaobrien
+  ms.author: gerryo
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 77ea8d8106f3b5e076de891cf8edc2e0a6727183
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/9-introducing-emotion.md)]'

@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.create-data-pipelines-using-databricks-delta.3-complete-labs-in-azure-databricks
+title: Exercise - Create data pipelines by using Databricks Delta
+metadata:
+  title: Exercise - Create data pipelines by using Databricks Delta
+  description: Learn how to connect to the preconfigured lab environment and import the notebook labs.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 9bbabb319ee577f47292141f320ebcad3c1147f8
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 45
+content: '[!include[](includes/3-complete-labs-in-azure-databricks.md)]'

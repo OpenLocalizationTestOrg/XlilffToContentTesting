@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.6-create-a-basic-app
+title: Create a basic web application
+metadata:
+  title: Create a basic web application
+  description: Create a basic web application
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4303a7ea4ee6973c4e1b3fa336bdc32543e6551d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 15
+content: >
+  [!include[](includes/6-create-a-basic-app.md)]
+tasks:
+- action: exists
+  environment: azure
+  azure:
+    resource:
+      type: Microsoft.Compute/virtualMachines
+  hint: Ensure your VM exists and that your web application comes up as shown.

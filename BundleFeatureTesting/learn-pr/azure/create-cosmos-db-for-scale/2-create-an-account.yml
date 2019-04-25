@@ -1,0 +1,29 @@
+### YamlMime:ModuleUnit
+uid: learn.create-cosmos-db-for-scale.2-create-an-account
+metadata:
+  title: Create an Azure Cosmos DB account
+  description: Create an Azure Cosmos DB account
+  ms.date: 09/24/2018
+  author: mimig1
+  ms.author: mimig
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 898904eda7c5c3a16b1b855b3395bba7fee3ead9
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Create an Azure Cosmos DB account in the Azure portal
+azureSandbox: true
+durationInMinutes: 6
+content: >
+  [!include[](includes/2-create-an-account.md)]
+tasks:
+- action: exists
+  environment: azure
+  azure:
+    resource:
+      type: Microsoft.DocumentDB/databaseAccounts
+  hint: Follow the directions to create a Cosmos DB account.

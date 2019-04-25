@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.tour-azure-portal-features.1-introduction
+title: Introduction
+metadata:
+  title: Introduction to Azure portal features
+  description: Explore the Azure portal features and how to customize it to meet your needs.
+  ms.date: 01/1/2019
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b261cef53847ae6603a39781610f2938db7daca4
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/1-introduction.md)]'

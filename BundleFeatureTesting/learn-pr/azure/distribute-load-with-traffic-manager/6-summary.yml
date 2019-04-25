@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.distribute-load-with-traffic-manager.6-summary
+metadata:
+  title: Summary
+  description: Summary
+  ms.date: 04/15/2019
+  author: jboeshart
+  ms.author: jaboes
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: db4d63b9f39e44251e79f2c7e5506c5560396e04
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Summary
+durationInMinutes: 2
+content: '[!include[](includes/6-summary.md)]'

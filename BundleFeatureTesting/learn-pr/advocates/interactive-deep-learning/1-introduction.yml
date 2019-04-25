@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.interactive-deep-learning.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: fcd884373a5f43bff9329b9cce5c3db6ae4b13a0
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 1
+content: '[!include[](includes/1-introduction.md)]'

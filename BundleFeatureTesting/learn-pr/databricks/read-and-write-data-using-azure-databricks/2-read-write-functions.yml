@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.read-and-write-data-using-azure-databricks.2-read-write-functions
+title: Read and write functions
+metadata:
+  title: Read and write functions
+  description: Learn about the data reading and writing capabilities of Azure Databricks.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: c7018bdce7b154cbc774326520d792b9c6367a6d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/2-read-write-functions.md)]'

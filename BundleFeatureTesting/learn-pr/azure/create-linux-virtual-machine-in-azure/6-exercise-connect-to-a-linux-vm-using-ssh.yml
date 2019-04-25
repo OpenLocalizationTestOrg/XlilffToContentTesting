@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.create-linux-vm-in-azure.6-exercise-connect-to-a-linux-vm-using-ssh
+title: Connect to a Linux virtual machine with SSH
+metadata:
+  title: Connect to a Linux virtual machine with SSH
+  description: Connect to a Linux virtual machine with SSH
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: dff8545f94f40a09789ff957f4f460542040a695
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+interactive: bash
+azureSandbox: true
+content: '[!include[](includes/6-exercise-connect-to-a-linux-vm-using-ssh.md)]'

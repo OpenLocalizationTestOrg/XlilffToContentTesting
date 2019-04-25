@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.principles-cloud-computing.7-summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary
+  ms.date: 12/20/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 6ae42cb4b01599c004cd4e245de59ceb98c2ae03
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/7-summary.md)]'

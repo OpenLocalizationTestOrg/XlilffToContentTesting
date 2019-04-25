@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.interactive-deep-learning.5-connect-to-jupyter-through-docker-on-the-dsvm
+title: Exercise - Connect to Jupyter through Docker on the DSVM
+metadata:
+  title: Exercise - Connect to Jupyter through Docker on the DSVM
+  description: Exercise - Connect to Jupyter through Docker on the DSVM
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 7e3ec332f1744cf511cb3313ac85667370f09973
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 8
+content: '[!include[](includes/5-connect-to-jupyter-through-docker-on-the-dsvm.md)]'

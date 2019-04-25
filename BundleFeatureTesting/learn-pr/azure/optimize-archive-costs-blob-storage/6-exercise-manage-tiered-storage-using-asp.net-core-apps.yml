@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.optimize-blob-storage-costs.6-exercise-manage-tiered-storage-using-asp.net-core-apps
+title: Exercise - Manage tiered storage using ASP.NET Core apps
+metadata:
+  title: Exercise - Manage tiered storage using ASP.NET Core apps
+  description: Exercise - Manage tiered storage using ASP.NET Core apps
+  ms.date: 04/10/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 7fe06adff87d861f71b0181e34c216390a46ec79
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+interactive: bash
+azureSandbox: true
+content: '[!include[](includes/6-exercise-manage-tiered-storage-using-asp.net-core-apps.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.register-and-deploy-model-with-amls.register-model
+title: Exercise - Register an Azure ML model with Python
+metadata:
+  title: Exercise - Register an Azure ML model with Python
+  description: Exercise - Register an Azure ML model with Python
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 450b938a3e503a076a004ac9fc246635ca71bd58
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 8
+content: '[!include[](includes/4-register-model.md)]'

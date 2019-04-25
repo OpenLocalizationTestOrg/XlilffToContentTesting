@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai-introduction-to-azure-data-lake-storage.create-data-lake-account
+title: Exercise - Create an Azure Storage Account by using the portal
+metadata:
+  title: Exercise - Create an Azure Storage Account by using the portal
+  description: Exercise - Create an Azure Storage Account by using the portal
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 2a630223455ce572ceed961b254fa862b26b1326
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/3-create-data-lake-account.md)]'

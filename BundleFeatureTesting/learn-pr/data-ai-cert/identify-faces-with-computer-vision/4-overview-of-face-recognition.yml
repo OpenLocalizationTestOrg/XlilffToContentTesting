@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.identify-faces-with-computer-vision.overview-of-face-recognition
+title: Overview of face recognition
+metadata:
+  title: Overview of face recognition
+  description: Get an overview of how to use Azure Cognitive Services to recognize faces in images
+  ms.date: 01/7/2019
+  author: gerryaobrien
+  ms.author: gerryo
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a1cfa07afd81626b8699e7ab3784eeec979967a2
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/4-overview-of-face-recognition.md)]'

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.4-install-mongodb
+title: Install MongoDB
+metadata:
+  title: Install MongoDB
+  description: Install MongoDB
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 40465855dc8b2849a9f4ed15685e057d03a550cc
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 5
+content: '[!include[](includes/4-install-mongodb.md)]'

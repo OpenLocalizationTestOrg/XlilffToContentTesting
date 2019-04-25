@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.optimize-blob-storage-costs.5-manage-tiered-storage-in-app-code
+title: Manage tiered storage in app code
+metadata:
+  title: Manage tiered storage in app code
+  description: Manage tiered storage in app code
+  ms.date: 04/10/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5148206a3a69a6f448639efd440445bbe4806d6a
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/5-manage-tiered-storage-in-app-code.md)]'

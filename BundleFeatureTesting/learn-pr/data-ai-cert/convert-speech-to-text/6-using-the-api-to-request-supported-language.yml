@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.convert-speech-to-text.using-the-api-to-request-supported-language
+title: Use the API to request supported speech languages
+metadata:
+  title: Use the API to request supported speech languages
+  description: Learn how to use the API to request a list of supported speech languages.
+  ms.date: 01/9/2019
+  author: gerryaobrien
+  ms.author: gerryo
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: cb6767375591874d989339230ab55b94293a0010
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 4
+content: '[!include[](includes/6-using-the-api-to-request-supported-language.md)]'

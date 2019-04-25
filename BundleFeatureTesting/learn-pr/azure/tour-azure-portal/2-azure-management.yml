@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.tour-azure-portal-features.2-azure-management
+title: Azure management options
+metadata:
+  title: Azure management options
+  description: Azure management options
+  ms.date: 01/1/2019
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 914b5d20358d3d8f98616cda92d9b04762768163
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 7
+content: '[!include[](includes/2-azure-management.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.app-and-infra-migration-and-modernization.4-infrastructure-and-app-migration
+title: Infrastructure and app migration
+metadata:
+  title: Infrastructure and app migration
+  description: Infrastructure and app migration
+  ms.date: 01/31/2019
+  author: maargued
+  ms.author: maargued
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c60e05904592b8bdb2b5cfca19bbab9f05ac5fdd
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 7
+content: '[!include[](includes/4-Infrastructure-and-app-migration.md)]'

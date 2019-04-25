@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.student-evangelism.predict-flight-delays-with-python.visualize-output
+title: Visualize Output of Model
+metadata:
+  title: Visualize Output of Model
+  description: Visualize Output of Model
+  ms.date: 02/25/2019
+  author: JeffProsise
+  ms.author: shanama
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a4ac89d7f5dd76369672a8c334736b027eec85a1
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 8
+content: '[!include[](includes/4-visualize-output.md)]'

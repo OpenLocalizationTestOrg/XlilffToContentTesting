@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.data-estate-migration-and-modernization.5-gaining-insights-from-your-data
+title: Gaining insights from your data
+metadata:
+  title: Gaining insights from your data
+  description: .
+  ms.date: 01/31/2019
+  author: Randall-Knapp
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 76b9293c1a075c8d0556d45db7567f8ed538f8c7
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/5-gaining-insights-from-your-data.md)]'

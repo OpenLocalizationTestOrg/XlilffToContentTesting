@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.explore-azure-infrastructure.3-geographies
+title: Geographies
+metadata:
+  title: Geographies
+  description: Geographies
+  ms.date: 01/1/2019
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5828eb5df3ff8b2f5a5ff4a0c4bbab766e2bf18b
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/3-geographies.md)]'

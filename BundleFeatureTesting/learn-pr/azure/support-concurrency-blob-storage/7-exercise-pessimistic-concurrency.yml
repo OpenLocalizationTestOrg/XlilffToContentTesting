@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.support-concurrency-blob-storage.7-exercise-pessimistic-concurrency
+title: Exercise - Implementing pessimistic concurrency
+metadata:
+  title: Exercise – Implementing pessimistic concurrency
+  description: Exercise – Implementing pessimistic concurrency
+  ms.date: 04/06/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: exercise
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b22b06005ed992fe943058919ea690537b6c0ab5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 8
+content: '[!include[](includes/7-exercise-pessimistic-concurrency.md)]'

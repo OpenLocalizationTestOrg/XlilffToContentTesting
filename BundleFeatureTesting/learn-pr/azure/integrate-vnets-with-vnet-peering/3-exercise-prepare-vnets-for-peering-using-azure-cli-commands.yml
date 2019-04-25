@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.integrate-vnets-with-vnet-peering.3-exercise-prepare-vnets-for-peering-using-azure-cli-commands
+title: Exercise - Prepare virtual networks for peering by using Azure CLI commands
+metadata:
+  title: Exercise - Prepare virtual networks for peering by using Azure CLI commands
+  description: Prepare virtual networks for peering by using Azure CLI commands
+  ms.date: 03/31/2019
+  author: jboeshart
+  ms.author: jaboes
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: cbd42caddedc4fb19b4d128a5f69fb238bb4ae0d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+azureSandbox: true
+interactive: bash
+content: '[!include[](includes/3-exercise-prepare-vnets-for-peering-using-azure-cli-commands.md)]'

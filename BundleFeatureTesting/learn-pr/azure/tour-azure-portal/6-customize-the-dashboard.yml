@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.tour-azure-portal-features.6-customize-the-dashboard
+title: Azure Portal dashboards
+durationInMinutes: 15
+metadata:
+  title: Azure Portal dashboards
+  description: Learn how to customize the Azure portal dashboard by adding your most-used services and apps.
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d13c2295ab7b7d1cc22a1a2a16f4ae021f7553fc
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+content: '[!include[](includes/6-customize-the-dashboard.md)]'

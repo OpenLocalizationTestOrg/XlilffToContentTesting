@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.persist-data-ef-core.2-setup-environment
+metadata:
+  title: Set up the environment
+  description: Provision Azure resources, download the ASP.NET Core starter project, and tour the starter project.
+  ms.date: 04/20/2019
+  author: scottaddie
+  ms.author: scaddie
+  ms.topic: interactive-tutorial
+  ms.prod: learning-aspnetcore
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: fb54f083d8203d03f92f5be23ca5b6f993f3096d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Set up the environment
+azureSandbox: true
+interactive: bash
+durationInMinutes: 10
+content: '[!include[](includes/2-setup-environment.md)]'

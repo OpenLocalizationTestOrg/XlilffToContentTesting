@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn.read-and-write-data-using-azure-databricks
+metadata:
+  title: Read and write data using Azure Databricks
+  description: Learn how to read and write data by using Azure Databricks and multiple data sources and destinations.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 39a3fca8a7bca22450750fef25727be15c96e66f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Read and write data by using Azure Databricks
+summary: Use Azure Databricks to work with multiple data sources, combining inputs from files and data stores such as Azure SQL Database, and transform and store that data for advanced analytics.
+cardDescription: Learn how to read and write data by using Azure Databricks and multiple data sources and destinations.
+abstract: >
+  In this module, you'll:
+
+  - Use Azure Databricks to work with multiple data sources.
+
+  - Combine inputs from files and data stores such as Azure SQL Database.
+
+  - Transform and store that data for advanced analytics.
+prerequisites: >
+  [!include[](../../includes/azure-subscription-prerequisite.md)]
+iconUrl: /learn/achievements/read-and-write-data-using-azure-databricks.svg
+levels:
+- intermediate
+roles:
+- developer
+- solution-architect
+products:
+- azure
+- azure-databricks
+units:
+- learn.read-and-write-data-using-azure-databricks.1-introduction
+- learn.read-and-write-data-using-azure-databricks.2-read-write-functions
+- learn.read-and-write-data-using-azure-databricks.3-complete-labs-in-azure-databricks
+- learn.read-and-write-data-using-azure-databricks.4-knowledge-check
+- learn.read-and-write-data-using-azure-databricks.5-summary-and-cleanup
+badge:
+  uid: learn.read-and-write-data-using-azure-databricks.badge

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.secure-azure-storage-account.control-network-access
+title: Control network access to your storage account
+metadata:
+  title: Control network access to your storage account
+  description: Control network access to your storage account
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 11f2a6c75153ca73b6ef6c77c95d5112b91a072f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/5-control-network-access.md)]'

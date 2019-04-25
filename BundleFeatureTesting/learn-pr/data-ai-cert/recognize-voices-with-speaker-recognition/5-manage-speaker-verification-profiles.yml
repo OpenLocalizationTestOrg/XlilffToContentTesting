@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.recognize-voices-with-speaker-recognition.manage-speaker-verification-profiles
+title: Manage speaker verification profiles
+metadata:
+  title: Manage speaker verification profiles
+  description: Learn how to manage the speaker verification profiles in your subscription.
+  ms.date: 01/11/2019
+  author: gerryaobrien
+  ms.author: gerryo
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a84d08ccc68e66f8e269979ca1ae9b2a2c480193
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 7
+content: '[!include[](includes/5-manage-speaker-verification-profiles.md)]'

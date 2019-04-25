@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.publish-azure-web-app-with-visual-studio.6-explore-your-visual-studio-app-project
+title: Explore your Visual Studio App Project
+metadata:
+  title: Explore your Visual Studio App Project
+  description: Explore your Visual Studio App Project
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 49a4a81ece42b3e84475a667821c07eb2d0302c9
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/6-explore-your-visual-studio-app-project.md)]'

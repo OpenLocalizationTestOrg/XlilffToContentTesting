@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.stage-deploy-app-service-deployment-slots.3-exercise-create-deployment-slots
+title: Exercise - Create deployment slots
+metadata:
+  title: Exercise - Create deployment slots
+  description: In this exercise, you'll set up a web app and then deploy code to two deployment slots.
+  ms.date: 03/27/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 06dee3f1b534be868ab6c75c49845769a78913a5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+interactive: bash
+durationInMinutes: 12
+content: '[!include[](includes/3-exercise-create-deployment-slots.md)]'

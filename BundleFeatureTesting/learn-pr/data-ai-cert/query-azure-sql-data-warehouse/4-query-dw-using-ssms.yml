@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.query-azure-sql-data-warehouse.query-dw-using-ssms
+title: Exercise - Run queries against an Azure SQL data warehouse
+metadata:
+  title: Exercise - Run queries against an Azure SQL data warehouse
+  description: Exercise - Run queries against an Azure SQL data warehouse
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 23acd4d51bed80d8a9b9e5dd91f9844792f63058
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/4-query-dw-using-ssms.md)]'

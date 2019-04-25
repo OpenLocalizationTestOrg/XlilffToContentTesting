@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn.host-a-web-application-with-azure-web-apps.4-exercise-implement-a-web-application
+title: Exercise - Write code to implement a web application
+metadata:
+  title: Exercise - Write code to implement a web application
+  description: Exercise - Write code to implement a web application
+  ms.date: 12/12/2018
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  zone_pivot_groups: dev-lang-csharp-java-node
+  ms.openlocfilehash: d24d420120758728f552e1d41fb39f4aabc7f472
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 10
+content: '[!include[](includes/4-exercise-implement-a-web-application.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.cloud-operating-model.3-modernization-triggers
+title: Modernization triggers
+metadata:
+  title: Modernization triggers
+  description: Understand what modernization triggers are and learn about the types of modernization triggers
+  ms.date: 1/31/2018
+  author: alinamacelaru
+  ms.author: a-almace
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 896e53cac204f7ea39728f2723c93dbbaf27747f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/3-modernization-triggers.md)]'

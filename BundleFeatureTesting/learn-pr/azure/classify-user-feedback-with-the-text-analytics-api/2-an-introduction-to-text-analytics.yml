@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.classify-user-feedback-with-the-text-analytics-api.2-an-introduction-to-text-analytics
+metadata:
+  title: Sentiment analysis and the Text Analytics API
+  description: In this unit, we'll talk about the field of text analytics and set the stage for using Azure Cognitive Services to discover sentiment in text from our apps.
+  ms.date: 09/24/2018
+  author: AndrewJByrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 0ee975d9754121157b8316e5e43f6566619d48ab
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Sentiment analysis and the Text Analytics API
+durationInMinutes: 4
+content: '[!include[](includes/2-an-introduction-to-text-analytics.md)]'

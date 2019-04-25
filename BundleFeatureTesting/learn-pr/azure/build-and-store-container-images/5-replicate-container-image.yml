@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.azure-container-registry.image-replication
+metadata:
+  title: Exercise - Replicate a container image to different Azure regions
+  description: Replicate a container image to different Azure regions
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 61dab149fe693667b6f4d9c9af958b45f9218bba
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Replicate a container image to different Azure regions
+interactive: bash
+azureSandbox: true
+durationInMinutes: 5
+content: '[!include[](includes/5-image-replication.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.transform-data-with-azure-stream-analytics.stream-analytics-workflow
+title: Understand the Streaming Analytics Workflow
+metadata:
+  title: Understand the Streaming Analytics Workflow
+  description: Understand the Streaming Analytics Workflow
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c6dbbe0486d611594756e715a4694a79f06e1c3a
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/2-stream-analytics-workflow.md)]'

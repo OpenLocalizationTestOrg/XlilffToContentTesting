@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.deploy-run-container-app-service.7-exercise-update-web-app
+title: Exercise - Modify the image and redeploy the web app
+metadata:
+  title: Exercise - Modify the image and redeploy the web app
+  description: Modify the code for the web app, upload a new Docker image, and use a webhook to automatically redeploy the web app.
+  ms.date: 03/28/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e8c19ffc3272a117365854b193a00c3e4ba06045
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+interactive: bash
+azureSandbox: true
+content: '[!include[](includes/7-exercise-update-web-app.md)]'

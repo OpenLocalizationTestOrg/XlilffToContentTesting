@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.principles-cloud-computing.3c-capex-vs-opex
+title: Capital expenditure (CapEx) versus operational expenditure (OpEx)
+metadata:
+  title: Capital expenditure (CapEx) versus operational expenditure (OpEx)
+  description: Capital expenditure (CapEx) versus operational expenditure (OpEx)
+  ms.date: 12/20/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a4c3ba9afa11edb478d1200ba9c82c0855ff12cb
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 7
+content: '[!include[](includes/3c-capex-vs-opex.md)]'

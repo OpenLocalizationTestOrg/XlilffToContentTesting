@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.build-azure-bot-services-bot.2-create-web-app-bot
+title: Create an Azure web app bot
+metadata:
+  title: Create an Azure web app bot
+  description: Create an Azure web app bot
+  ms.date: 09/24/2018
+  author: JeffProsise
+  ms.author: shanama
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: b2438ed38a22bdd3e699b4b2e2119d14aad7dd3a
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/2-create-web-app-bot.md)]'

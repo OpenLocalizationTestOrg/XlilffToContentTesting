@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.implement-message-workflows-with-service-bus.4-write-code-that-uses-service-bus-queues
+title: Write code that uses Service Bus queues
+metadata:
+  title: Write code that uses Service Bus queues
+  description: Write code that uses Service Bus queues
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 3bc4d417ed877eed418070ba567c0a8e8933207e
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/4-write-code-that-uses-service-bus-queues.md)]'

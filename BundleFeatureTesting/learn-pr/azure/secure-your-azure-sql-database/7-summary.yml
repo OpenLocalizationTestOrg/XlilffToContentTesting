@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.secure-your-azure-sql-database.7-summary
+metadata:
+  title: Summary
+  description: Summary
+  ms.date: 11/09/2018
+  author: jboeshart
+  ms.author: jaboes
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: f4eab7e382b290ffcbc81687e8b459ca820bb17e
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Summary
+durationInMinutes: 3
+content: '[!include[](includes/7-summary.md)]'

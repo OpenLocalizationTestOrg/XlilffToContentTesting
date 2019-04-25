@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.create-data-visualizations-using-azure-databricks-and-power-bi.5-cleanup-the-environment
+title: Clean up the environment
+metadata:
+  title: Clean up the environment
+  description: Clean up and remove Azure resources used by this lab.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 2d2d8a92d48030fccb00fb47f724e3615e228f85
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/5-cleanup-the-environment.md)]'

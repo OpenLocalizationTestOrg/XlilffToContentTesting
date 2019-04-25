@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.logic-apps-and-custom-connectors.3-exercise-setup-a-test-api
+title: Exercise - Set up a test API
+metadata:
+  title: Exercise - Set up a test API
+  description: In this exercise, you will create a Web API, hosted in Azure, to call from Logic Apps.
+  ms.date: 04/11/2019
+  author: andrewjbyrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c81ec126d03be115fb368c3a597e029fe0d5517d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+interactive: bash
+azureSandbox: true
+content: '[!include[](includes/3-exercise-setup-a-test-api.md)]'

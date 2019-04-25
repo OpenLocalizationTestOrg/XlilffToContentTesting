@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.introduction-to-azure-virtual-machines.5-high-availability
+title: Manage the availability of your Azure VMs
+metadata:
+  title: Manage the availability of your Azure VMs
+  description: Manage the availability of your Azure VMs
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 6e2aa220805d48e34675f09a7ab34f558ebfbcfa
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/5-high-availability.md)]'

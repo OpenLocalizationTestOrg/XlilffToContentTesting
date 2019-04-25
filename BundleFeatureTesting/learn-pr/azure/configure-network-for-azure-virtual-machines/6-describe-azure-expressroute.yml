@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.configure-the-network-for-your-virtual-machines.6-describe-azure-expressroute
+title: Explore Azure ExpressRoute
+metadata:
+  title: Explore Azure ExpressRoute
+  description: Explore Azure ExpressRoute
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 9294d6c6501ad5c0004692ad5c7296bd1c1bbc73
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/6-describe-azure-expressroute.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.cloud-operating-model.2-cloud-operating-model-overview
+title: Cloud Operating Model overview
+metadata:
+  title: Cloud Operating Model overview
+  description: Understand what the Cloud Operating Model is
+  ms.date: 01/31/2019
+  author: alinamacelaru
+  ms.author: a-almace
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1212b90cd7f0edfcc3c2b9bb332ed9a5f0ff50c4
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/2-cloud-operating-model-overview.md)]'

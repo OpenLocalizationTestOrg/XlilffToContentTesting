@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.deploy-run-container-app-service.6-update-web-app
+title: Update the image and automatically redeploy the web app
+metadata:
+  title: Update the image and automatically redeploy the web app
+  description: Learn how to use a webhook to redeploy a web app when the Docker image is updated.
+  ms.date: 03/28/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: cbbd30cf7d6bf3ae0534b202c945644dc41b18ff
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 4
+content: '[!include[](includes/6-update-web-app.md)]'

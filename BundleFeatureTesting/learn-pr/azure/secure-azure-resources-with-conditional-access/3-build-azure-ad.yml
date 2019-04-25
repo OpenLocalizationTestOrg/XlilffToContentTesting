@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.secure-access-azure-ad-multi-factor-authentication.3-build-azure-ad
+metadata:
+  title: Exercise - Build your directory
+  description: Learn how to to create a directory and get temporary licenses in place.
+  ms.date: 04/15/2019
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 1341178b62df7e0ffbe6fa2c8880775ef8705730
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Build your directory
+durationInMinutes: 5
+content: '[!include[](includes/3-build-azure-ad.md)]'

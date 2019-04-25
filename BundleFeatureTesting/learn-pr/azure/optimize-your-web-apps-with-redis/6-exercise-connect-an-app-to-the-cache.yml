@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.optimize-web-app-with-redis.6-exercise-connect-an-app-to-the-cache
+title: Connect an app to the cache
+metadata:
+  title: Connect an app to the cache
+  description: Connect an app to the cache
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e5bc09770269d8c244f681e9b9c63c5343eefe56
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 15
+content: '[!include[](includes/6-exercise-connect-an-app-to-the-cache.md)]'

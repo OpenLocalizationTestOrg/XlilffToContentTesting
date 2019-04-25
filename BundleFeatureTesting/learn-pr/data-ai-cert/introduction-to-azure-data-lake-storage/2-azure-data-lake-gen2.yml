@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai-introduction-to-azure-data-lake-storage.azure-data-lake-gen2
+title: Understand Azure Data Lake Storage Gen2
+metadata:
+  title: Understand Azure Data Lake Storage Gen2
+  description: Understand Azure Data Lake Storage Gen2
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 8d0da6023fafeb40e91a41ff3272951b0c32155b
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 4
+content: '[!include[](includes/2-azure-data-lake-gen2.md)]'

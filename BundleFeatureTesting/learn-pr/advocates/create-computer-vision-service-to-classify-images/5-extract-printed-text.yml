@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.create-computer-vision-service.5-extract-printed-text
+title: Detect and extract printed text from an image
+metadata:
+  title: Detect and extract printed text from an image
+  description: Detect and extract printed text from an image
+  ms.date: 09/24/2018
+  author: AndrewJByrne
+  ms.author: marouill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 98f9912896f446bd087e5d8144266ed06dca3e07
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 5
+content: '[!include[](includes/5-extract-printed-text.md)]'

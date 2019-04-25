@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.tour-azure-portal-features.3-navigate-the-portal
+title: Navigate the portal
+metadata:
+  title: Navigate the portal
+  description: Learn how to work with blades in the Azure portal.
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 31b213d7984324f1477d98b45441a435d3913852
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/3-navigate-the-portal.md)]'

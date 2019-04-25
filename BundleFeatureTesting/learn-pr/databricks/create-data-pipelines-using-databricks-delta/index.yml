@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn.create-data-pipelines-using-databricks-delta
+metadata:
+  title: Create data pipelines by using Databricks Delta
+  description: Learn how to manage the flow of data to and from a data lake by using Databricks Delta.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 5a8bddb6e9448c16e24ab2656c816de8f7b309d0
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Create data pipelines by using Databricks Delta
+summary: Learn how to use Databricks Delta in Azure to manage the flow of data (a data pipeline) to and from a data lake. This system includes mechanisms to create, append, and upsert data to Apache Spark tables, taking advantage of built-in reliability and optimizations. Learn how Databricks Delta architecture helps speed up reads, and how it lets multiple writers modify a dataset simultaneously and see consistent views. Finally, implement a Lambda Architecture by processing batch and streaming data with Delta.
+cardDescription: Learn how to manage the flow of data to and from a data lake by using Databricks Delta.
+abstract: >
+  In this module, you will:
+
+  - Use Databricks Delta to create, append, and upsert tables.
+
+  - Work with streaming data.
+
+  - Perform optimizations in Delta.
+
+  - Implement a Lambda Architecture by processing batch and streaming data with Delta.
+prerequisites: >
+  [!include[](../../includes/azure-subscription-prerequisite.md)]
+iconUrl: /learn/achievements/create-data-pipelines-using-databricks-delta.svg
+levels:
+- intermediate
+roles:
+- developer
+- solution-architect
+products:
+- azure
+- azure-databricks
+units:
+- learn.create-data-pipelines-using-databricks-delta.1-introduction
+- learn.create-data-pipelines-using-databricks-delta.2-overview-of-databricks-delta
+- learn.create-data-pipelines-using-databricks-delta.3-complete-labs-in-azure-databricks
+- learn.create-data-pipelines-using-databricks-delta.4-knowledge-check
+- learn.create-data-pipelines-using-databricks-delta.5-summary-and-cleanup
+badge:
+  uid: learn.create-data-pipelines-using-databricks-delta.badge

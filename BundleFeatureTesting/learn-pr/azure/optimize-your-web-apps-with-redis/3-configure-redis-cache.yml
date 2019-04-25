@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.optimize-web-app-with-redis.3-configure-redis-cache
+title: Configure Azure Cache for Redis
+metadata:
+  title: Configure Azure Cache for Redis
+  description: Configure Azure Cache for Redis
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a18fe517364a93549086fe2eb7840db6b979981f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/3-configure-redis-cache.md)]'

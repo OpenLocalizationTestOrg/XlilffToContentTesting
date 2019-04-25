@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.classify-images-with-custom-vision-services.2-upload-tagged-images
+title: Exercise - Upload tagged images
+metadata:
+  title: Exercise - Upload tagged images
+  description: Exercise - Upload tagged images
+  ms.date: 04/10/2019
+  author: shanamatthews
+  ms.author: shanama
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 15801a110d8d6240e8444266b891b221656bd410
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/2-upload-tagged-images.md)]'

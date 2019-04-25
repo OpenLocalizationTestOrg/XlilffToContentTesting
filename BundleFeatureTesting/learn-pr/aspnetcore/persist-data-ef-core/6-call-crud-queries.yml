@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.persist-data-ef-core.6-call-crud-queries
+metadata:
+  title: Exercise - Call CRUD queries
+  description: Learn how to call Create, Read, Update, Delete (CRUD) queries in Entity Framework Core.
+  ms.date: 04/20/2019
+  author: scottaddie
+  ms.author: scaddie
+  ms.topic: interactive-tutorial
+  ms.prod: learning-aspnetcore
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c88ea36be50c77845552c1f4de44fd7da2b8227d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Call CRUD queries
+azureSandbox: true
+interactive: bash-editor
+durationInMinutes: 10
+content: '[!include[](includes/6-call-crud-queries.md)]'

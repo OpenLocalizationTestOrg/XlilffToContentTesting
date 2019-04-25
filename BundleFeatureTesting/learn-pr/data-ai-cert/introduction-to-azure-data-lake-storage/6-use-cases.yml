@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai-introduction-to-azure-data-lake-storage.use-cases
+title: Examine uses for Azure Data Lake Storage Gen2
+metadata:
+  title: Examine uses for Azure Data Lake Storage Gen2
+  description: Examine uses for Azure Data Lake Storage Gen2
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d066203d4563db84401f54656a8127c81b979f4c
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/6-use-cases.md)]'

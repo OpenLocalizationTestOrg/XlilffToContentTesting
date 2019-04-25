@@ -1,0 +1,19 @@
+### YamlMime:ModuleUnit
+uid: learn.streaming-in-azure-databricks.6-summary-and-cleanup
+title: Summary and cleanup
+metadata:
+  title: Summary and cleanup
+  description: Clean up and delete Azure resources used in this lab.
+  ms.date: 02/20/2019
+  author: barlanmsft
+  ms.author: barlan
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 5932ae69460441b9ab058f37ccb47846096851e9
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/6-summary-and-cleanup.md)]'

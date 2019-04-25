@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.train-local-model-with-azure-mls.run-log-reg-model-sklearn
+title: Exercise - Run a logistic regression model with Scikit-Learn
+metadata:
+  title: Exercise - Run a logistic regression model with Scikit-Learn
+  description: Exercise - Run a logistic regression model with Scikit-Learn
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 02a97376ceb1eb94b62ba3df6daf6d5e237fe418
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 8
+content: '[!include[](includes/3-run-log-reg-model-sklearn.md)]'

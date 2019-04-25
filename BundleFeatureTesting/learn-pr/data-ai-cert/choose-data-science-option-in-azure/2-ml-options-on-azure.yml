@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.choose-azure-data-science-option.ml-options-on-azure
+title: Machine Learning options on Azure
+metadata:
+  title: Machine Learning options on Azure
+  description: Machine Learning options on Azure
+  ms.date: 01/31/2019
+  author: bcafferky
+  ms.author: brcaffer
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: d174ce887a4249da1b8d4c5e7b2bd2eac6c684f2
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/2-ml-options-on-azure.md)]'

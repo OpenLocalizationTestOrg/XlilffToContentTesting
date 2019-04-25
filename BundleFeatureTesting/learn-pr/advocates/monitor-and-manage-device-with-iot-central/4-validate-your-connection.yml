@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.monitor-manage-device-with-iotcentral.4-validate-your-connection
+title: Validate your connection and data flow
+metadata:
+  title: Validate your connection and data flow
+  description: Validate your connection and data flow
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 40db1e6c3958d732a259e7192ad7d9d36d60b9f3
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 12
+content: '[!include[](includes/4-validate-your-connection.md)]'

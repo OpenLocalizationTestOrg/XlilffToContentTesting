@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.azure-container-registry.deploy-acr
+metadata:
+  title: Exercise - Deploy Azure Container Registry
+  description: Deploy Azure Container Registry
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: db4ef1b8075e3380765877d381d26932189b31b2
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Deploy Azure Container Registry
+durationInMinutes: 2
+interactive: bash
+azureSandbox: true
+content: >
+  [!include[](includes/2-deploy-acr.md)]
+tasks:
+- action: exists
+  environment: azure
+  azure:
+    resource:
+      type: Microsoft.ContainerRegistry/registries
+  hint: Run the `az acr create` command as shown to create your container registry.

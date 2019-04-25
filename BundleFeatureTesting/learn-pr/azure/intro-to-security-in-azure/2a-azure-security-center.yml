@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.introduction-to-security.2a-azure-security-center
+title: Get tips from Azure Security Center
+metadata:
+  title: Get tips from Azure Security Center
+  description: Get tips from Azure Security Center
+  ms.date: 12/26/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5dfbdd380e8bb9f888bf537e86099be46e911b3c
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/2a-azure-security-center.md)]'

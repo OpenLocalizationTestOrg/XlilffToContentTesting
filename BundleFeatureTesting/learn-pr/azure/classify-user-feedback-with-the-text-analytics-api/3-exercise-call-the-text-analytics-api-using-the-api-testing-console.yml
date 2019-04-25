@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.classify-user-feedback-with-the-text-analytics-api.3-exercise-call-the-text-analytics-api-using-the-api-testing-console
+metadata:
+  title: Exercise - Call the Text Analytics API from the online testing console
+  description: In this unit, we'll make real calls to the sentiment endpoint of the Text Analytics API without writing a line of code, thanks to the online API testing console.
+  ms.date: 09/24/2018
+  author: AndrewJByrne
+  ms.author: anbyrne
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a35a9529d866fa36a71c3c0bde0a8e9269d03a1d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Call the Text Analytics API from the online testing console
+azureSandbox: true
+durationInMinutes: 10
+content: '[!include[](includes/3-exercise-call-the-text-analytics-api-using-the-api-testing-console.md)]'

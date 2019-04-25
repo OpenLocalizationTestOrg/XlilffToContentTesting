@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn.host-a-web-application-with-azure-web-apps.6-exercise-deploy-your-code-to-app-service
+title: Exercise - Deploy your code to App Service
+metadata:
+  title: Exercise - Deploy your code to App Service
+  description: Exercise - Deploy your code to App Service
+  ms.date: 12/12/2018
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  zone_pivot_groups: dev-lang-csharp-java-node
+  ms.openlocfilehash: db607b6e0d5d899240aa3e6caef5d09cafa358b5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 20
+content: '[!include[](includes/6-exercise-deploy-your-code-to-app-service.md)]'

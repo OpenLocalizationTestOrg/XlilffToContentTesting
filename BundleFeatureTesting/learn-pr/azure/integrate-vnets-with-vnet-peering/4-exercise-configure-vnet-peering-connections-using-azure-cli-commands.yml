@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.integrate-vnets-with-vnet-peering.4-exercise-configure-vnet-peering-connections-using-azure-cli-commands
+title: Exercise - Configure virtual network peering connections by using Azure CLI commands
+metadata:
+  title: Exercise - Configure virtual network peering connections by using Azure CLI commands
+  description: Configure virtual network peering connections by using Azure CLI commands
+  ms.date: 03/31/2019
+  author: jboeshart
+  ms.author: jaboes
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 62d1ab4355dbdd7a40a3646548ab8e2d2682d0e8
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+azureSandbox: true
+interactive: bash
+content: '[!include[](includes/4-exercise-configure-vnet-peering-connections-using-azure-cli-commands.md)]'

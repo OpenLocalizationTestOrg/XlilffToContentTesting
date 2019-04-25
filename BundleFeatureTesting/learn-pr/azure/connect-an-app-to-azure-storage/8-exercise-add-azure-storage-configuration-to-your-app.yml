@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn.connect-app-to-azure-storage.8-exercise-add-azure-storage-configuration-to-your-app
+title: Exercise - Add Azure Storage configuration to your app
+metadata:
+  title: Add Azure Storage configuration to your app
+  description: Add Azure Storage configuration to your app
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  zone_pivot_groups: dev-lang-csharp-javascript
+  ms.openlocfilehash: 584899221bf19fe039cac692b05e426f411c3866
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash-editor
+azureSandbox: true
+durationInMinutes: 10
+content: '[!include[](includes/8-exercise-add-azure-storage-configuration-to-your-app.md)]'

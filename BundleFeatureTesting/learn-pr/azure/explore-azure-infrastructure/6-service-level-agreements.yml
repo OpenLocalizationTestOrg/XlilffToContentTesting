@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.explore-azure-infrastructure.6-service-level-agreements
+title: Service Level Agreements for Azure
+metadata:
+  title: Service Level Agreements for Azure
+  description: Service Level Agreements for Azure
+  ms.date: 01/1/2019
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 759983ac0d99c4ae1683a2934d0aaf4f9165cbc8
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 6
+content: '[!include[](includes/6-service-level-agreements.md)]'

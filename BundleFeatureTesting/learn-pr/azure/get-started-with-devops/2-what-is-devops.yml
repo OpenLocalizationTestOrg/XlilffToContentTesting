@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.get-started-with-devops.2-what-is-devops
+metadata:
+  title: What is DevOps?
+  description: What is DevOps?
+  ms.openlocfilehash: a89a2f4c2bc05cb1676e15713e1bd406061a4bf3
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: What is DevOps?
+durationInMinutes: 10
+content: '[!include[](includes/2-what-is-devops.md)]'

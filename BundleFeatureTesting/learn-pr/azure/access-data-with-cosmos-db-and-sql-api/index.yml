@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn.access-data-with-cosmos-db-and-sql-api
+metadata:
+  title: Insert and query data in your Azure Cosmos DB database
+  description: Learn how to add data and query NoSQL data in your Azure Cosmos DB database.
+  ms.date: 09/24/2018
+  author: mimig1
+  ms.author: mimig
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 5ec4473bf5e50ba4b7b8a6cbac7f208b27857bee
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Insert and query data in your Azure Cosmos DB database
+summary: Learn how to add data to your database and query NoSQL data in Azure Cosmos DB.
+abstract: >
+  In this module, you will:
+
+  - Create product catalog documents in the Data Explorer
+
+  - Perform Azure Cosmos DB queries
+
+  - Create and run operations on your documents by using stored procedures
+prerequisites: "- Have an understanding of databases and queries \n"
+iconUrl: /learn/achievements/access-data-with-cosmos-db-and-sql-api.svg
+levels:
+- beginner
+roles:
+- developer
+- solution-architect
+products:
+- azure
+- azure-cosmos-db
+- azure-clis
+- azure-portal
+units:
+- learn.access-data-with-cosmos-db-and-sql-api.1-introduction
+- learn.access-data-with-cosmos-db-and-sql-api.2-setup-cosmosdb
+- learn.access-data-with-cosmos-db-and-sql-api.3-add-data
+- learn.access-data-with-cosmos-db-and-sql-api.4-query-types
+- learn.access-data-with-cosmos-db-and-sql-api.5-run-queries
+- learn.access-data-with-cosmos-db-and-sql-api.6-javascript-programming
+- learn.access-data-with-cosmos-db-and-sql-api.7-summary
+badge:
+  uid: learn.access-data-with-cosmos-db-and-sql-api.badge

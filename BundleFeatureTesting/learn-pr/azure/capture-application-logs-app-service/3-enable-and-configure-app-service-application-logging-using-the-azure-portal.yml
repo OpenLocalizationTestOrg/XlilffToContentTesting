@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.capture-application-logs-app-service.3-enable-and-configure-app-service-application-logging-using-the-azure-portal
+title: Exercise - Enable and Configure App Service Application Logging using the Azure Portal
+metadata:
+  title: Exercise - Enable and Configure App Service Application Logging using the Azure Portal
+  description: Enable and Configure App Service Application Logging using the Azure Portal
+  ms.date: 03/20/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  zone_pivot_groups: dev-lang-csharp-javascript
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: ce97388b351ebf59bbc3826cd34720f56bb144a4
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+interactive: bash
+azureSandbox: true
+content: '[!include[](includes/3-enable-and-configure-app-service-application-logging-using-the-azure-portal.md)]'

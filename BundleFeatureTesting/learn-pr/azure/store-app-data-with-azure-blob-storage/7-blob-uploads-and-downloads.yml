@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.store-app-data-with-azure-blob-storage.7-blob-uploads-and-downloads
+title: Blob uploads and downloads
+metadata:
+  title: Blob uploads and downloads
+  description: Blob uploads and downloads
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5995b861773fa7736b819461e00339cce51efd28
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+interactive: bash-editor
+azureSandbox: true
+content: '[!include[](includes/7-blob-uploads-and-downloads.md)]'

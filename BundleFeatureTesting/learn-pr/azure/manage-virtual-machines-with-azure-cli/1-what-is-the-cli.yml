@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.manage-vms-with-azure-cli-data.1-what-is-the-cli
+title: What is the Azure CLI?
+metadata:
+  title: What is the Azure CLI?
+  description: What is the Azure CLI?
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 247b90fa717a8fa337ffa99c92fb9af533b1aa26
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 3
+content: '[!include[](includes/1-what-is-the-cli.md)]'

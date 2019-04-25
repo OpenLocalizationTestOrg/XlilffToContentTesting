@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.data-estate-migration-and-modernization.7-summary-and-resources
+title: Summary and resources
+metadata:
+  title: Summary and resources
+  description: .
+  ms.date: 01/31/2019
+  author: Randall-Knapp
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5178eeaa3af181b82b5cab29a4b6bb39263bd5dc
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 2
+content: '[!include[](includes/7-summary-and-resources.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.query-azure-sql-data-warehouse.query-dw-using-power-bi
+title: Exercise - Query an Azure SQL data warehouse by using Power BI
+metadata:
+  title: Exercise - Query an Azure SQL data warehouse by using Power BI
+  description: Exercise - Query an Azure SQL data warehouse by using Power BI
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e9ad39305c859d937752f1a97ba40e6b9c9c71d5
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/5-query-dw-using-power-bi.md)]'

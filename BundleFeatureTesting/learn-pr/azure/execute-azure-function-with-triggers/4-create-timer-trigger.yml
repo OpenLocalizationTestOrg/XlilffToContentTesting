@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.execute-azure-function-with-triggers.4-create-timer-trigger
+title: Create a timer trigger
+metadata:
+  title: Create a timer trigger
+  description: Create a timer trigger
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 23cc968d124c05fba962bcba0213bb37fe392025
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 15
+content: >
+  [!include[](includes/4-create-timer-trigger.md)]
+tasks:
+- action: exists
+  environment: azure
+  azure:
+    resource:
+      type: Microsoft.Web/sites
+      kind: functionapp
+  hint: Use the portal to create your function app and timer-triggered function using the instructions above.

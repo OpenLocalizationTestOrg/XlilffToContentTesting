@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.control-and-organize-with-resource-manager.2-principles-of-resource-groups
+title: Principles of resource groups
+metadata:
+  title: Principles of resource groups
+  description: In this unit we'll cover the key principles of resource groups
+  ms.date: 10/1/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 7d9cf58724bd0f97e8aaaae0f503e836ce3cf976
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/2-principles-of-resource-groups.md)]'

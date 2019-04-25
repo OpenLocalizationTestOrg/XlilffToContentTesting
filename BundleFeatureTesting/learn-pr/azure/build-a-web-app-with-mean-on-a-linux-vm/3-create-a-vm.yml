@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.3-create-a-vm
+title: Create a VM to host your web application
+metadata:
+  title: Create a VM to host your web application
+  description: Create a VM to host your web application
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: a81c9af9825f26488383692c0a61ae2bafe21570
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 10
+content: >
+  [!include[](includes/3-create-a-vm.md)]
+tasks:
+- action: exists
+  environment: azure
+  azure:
+    resource:
+      type: Microsoft.Compute/virtualMachines
+  hint: Run the `az vm create` command as shown to create your virtual machine.

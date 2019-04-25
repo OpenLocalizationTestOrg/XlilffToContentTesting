@@ -1,0 +1,29 @@
+### YamlMime:ModuleUnit
+uid: learn.provision-azure-sql-db.3-create-your-database
+title: Create your Azure SQL database
+metadata:
+  title: Create your Azure SQL database
+  description: Create your Azure SQL database
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 76ccf2ae0ef948b8fef6274afd1b54ec6270887c
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 20
+content: >
+  [!include[](includes/3-create-your-database.md)]
+tasks:
+- action: exists
+  environment: azure
+  azure:
+    resource:
+      type: Microsoft.Sql/servers
+  hint: Follow the directions above to create a SQL database named 'Logistics'.

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.upload-data-to-azure-data-lake-storage.upload-data-using-explorer
+title: Exercise - Use Azure Storage Explorer to upload data to Azure Storage
+metadata:
+  title: Exercise - Use Azure Storage Explorer to upload data to Azure Storage
+  description: Use Azure Storage Explorer to upload data to Azure Storage
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 830acefa452ff107e14f0f9649d46c8554bef010
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/3-upload-data-using-explorer.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.secure-azure-storage-account.storage-security-features
+title: Explore Azure Storage security features
+metadata:
+  title: Explore Azure Storage security features
+  description: Explore Azure Storage security features
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 48c3f7042ea257f6d5802808f90cac998188e344
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/2-storage-security-features.md)]'

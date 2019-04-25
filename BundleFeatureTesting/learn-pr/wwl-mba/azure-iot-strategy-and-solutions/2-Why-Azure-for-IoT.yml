@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.azure-iot-strategy-and-solutions.2-why-azure-for-iot
+title: Why Azure for IoT
+metadata:
+  title: Why Azure for IoT
+  description: .
+  ms.date: 01/31/2019
+  author: msmkitris1
+  ms.author: mkitris
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: c04094a52fe7c413778791a0b368673b9b904d8b
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 4
+content: '[!include[](includes/2-Why-Azure-for-IoT.md)]'

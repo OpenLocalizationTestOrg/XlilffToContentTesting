@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.distribute-load-with-traffic-manager.5-exercise-performance-routing
+metadata:
+  title: Exercise - Optimize applications across regions using performance routing
+  description: In this hands-on exercise, you'll optimize applications across regions using performance routing
+  ms.date: 04/15/2019
+  author: jboeshart
+  ms.author: jaboes
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4504e36df83342ab2ae6ed4fe4ab1c5aad235c3a
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Optimize applications across regions using performance routing
+durationInMinutes: 7
+interactive: bash
+azureSandbox: true
+content: '[!include[](includes/5-exercise-performance-routing.md)]'

@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-wwl.azure-ai-strategy.4-apps-and-agents
+title: Apps and agents
+metadata:
+  title: Apps and agents
+  description: Apps and agents
+  ms.date: 01/31/2019
+  author: Randall-Knapp
+  ms.author: rknapp
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 2857d2455888192b4893c1b5a247bb65bb14d47e
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/4-Apps-and-agents.md)]'

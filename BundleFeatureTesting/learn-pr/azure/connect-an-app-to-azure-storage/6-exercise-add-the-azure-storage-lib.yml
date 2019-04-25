@@ -1,0 +1,23 @@
+### YamlMime:ModuleUnit
+uid: learn.connect-app-to-azure-storage.6-exercise-add-the-azure-storage-lib
+title: Exercise - Add the storage client library to your app
+metadata:
+  title: Add the storage client library to your app
+  description: Add the storage client library to your app
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  zone_pivot_groups: dev-lang-csharp-javascript
+  ms.openlocfilehash: 3d0484b7afd22933eb2550822cb08bbbd48d5386
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 5
+content: '[!include[](includes/6-exercise-add-the-azure-storage-lib.md)]'

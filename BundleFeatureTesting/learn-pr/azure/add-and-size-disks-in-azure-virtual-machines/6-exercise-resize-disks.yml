@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.add-and-size-disks-in-azure-virtual-machines.6-exercise-resize-disks
+title: Exercise - Resize a VM disk
+metadata:
+  title: Exercise - Resize a VM disk
+  description: Exercise - Resize a VM disk
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 8a6de6c63915dd5c22a8304b68ec6e50143121d2
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 7
+content: >
+  [!include[](includes/6-exercise-resize-disks.md)]
+tasks:
+- action: exists
+  environment: azure
+  azure:
+    resource:
+      type: Microsoft.Compute/virtualMachines
+  hint: Run the `az vm create` command as shown to create your virtual machine.

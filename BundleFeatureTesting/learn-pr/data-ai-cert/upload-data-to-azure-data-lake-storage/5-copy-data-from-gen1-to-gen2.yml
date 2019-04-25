@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.data-ai.upload-data-to-azure-data-lake-storage.copy-data-from-gen1-to-gen2
+title: Exercise - Use Azure Data Factory to copy data from Data Lake Storage Gen1 to Data Lake Storage Gen2
+metadata:
+  title: Exercise - Use Azure Data Factory to copy data from Data Lake Storage Gen1 to Data Lake Storage Gen2
+  description: Use Azure Data Factory to copy data from Data Lake Storage Gen1 to Data Lake Storage Gen2
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 2defa655402badbee0c80fd59ca58b196168a865
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 15
+content: '[!include[](includes/5-copy-data-from-gen1-to-gen2.md)]'

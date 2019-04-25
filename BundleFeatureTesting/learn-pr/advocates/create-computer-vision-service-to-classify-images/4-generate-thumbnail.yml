@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.create-computer-vision-service.4-generate-thumbnail
+title: Generate a thumbnail
+metadata:
+  title: Generate a thumbnail
+  description: Generate a thumbnail
+  ms.date: 09/24/2018
+  author: AndrewJByrne
+  ms.author: marouill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5b05de3ff66df2e69ed0619505942b2faf602ea0
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 5
+content: '[!include[](includes/4-generate-thumbnail.md)]'

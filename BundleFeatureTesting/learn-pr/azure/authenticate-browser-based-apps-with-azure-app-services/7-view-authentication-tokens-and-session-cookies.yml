@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.authenticate-browser-based-apps-with-azure-app-services.7-view-authentication-tokens-and-session-cookies
+title: Exercise - View authentication tokens and session cookies
+metadata:
+  title: Exercise - View authentication tokens and session cookies
+  description: View authentication tokens and session cookies
+  ms.date: 03/27/2019
+  author: adrianstevens
+  ms.author: adsteven
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 56b67374425ab7acba21d70293568511863d84ec
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 15
+content: '[!include[](includes/7-view-authentication-tokens-and-session-cookies.md)]'

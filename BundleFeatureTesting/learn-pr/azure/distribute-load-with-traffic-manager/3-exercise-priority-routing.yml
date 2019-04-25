@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.distribute-load-with-traffic-manager.3-exercise-priority-routing
+metadata:
+  title: Exercise - Enable automatic failover using priority routing
+  description: In this hands-on exercise, you'll enable automatic failover using priority routing
+  ms.date: 04/15/2019
+  author: jboeshart
+  ms.author: jaboes
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 02304bc8309d37f972c38b8b3dcb14c68a0fec1f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Enable automatic failover using priority routing
+durationInMinutes: 10
+interactive: bash
+azureSandbox: true
+content: '[!include[](includes/3-exercise-priority-routing.md)]'

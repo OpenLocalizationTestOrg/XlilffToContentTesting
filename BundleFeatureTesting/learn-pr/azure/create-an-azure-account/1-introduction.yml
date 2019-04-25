@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.create-azure-account.1-introduction
+title: Introduction
+metadata:
+  title: Create a free Azure account
+  description: Create a free Azure account
+  ms.date: 1/1/2019
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4becac6d74f5b4ae4b7dde2ab35a2a169c42f7ce
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 2
+content: '[!include[](includes/1-introduction.md)]'

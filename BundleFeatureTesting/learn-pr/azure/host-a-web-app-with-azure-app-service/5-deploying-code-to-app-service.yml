@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.host-a-web-application-with-azure-web-apps.5-deploying-code-to-app-service
+title: Deploying code to App Service
+metadata:
+  title: Deploying code to App Service
+  description: Deploying code to App Service
+  ms.date: 12/12/2018
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 68166f22d984274fe2c310c58c9c89f9b7f1b6dc
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+content: '[!include[](includes/5-deploying-code-to-app-service.md)]'

@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.create-computer-vision-service.3-analyze-images
+title: Get information about the visual content found in an image
+metadata:
+  title: Get information about the visual content found in an image
+  description: Get information about the visual content found in an image
+  ms.date: 09/24/2018
+  author: AndrewJByrne
+  ms.author: marouill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 40ebed0f9bca003c766a3073c950d34b63f5ddd6
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+interactive: bash
+azureSandbox: true
+durationInMinutes: 5
+content: '[!include[](includes/3-analyze-images.md)]'

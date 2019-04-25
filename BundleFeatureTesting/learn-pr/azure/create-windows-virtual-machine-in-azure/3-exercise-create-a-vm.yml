@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.create-a-windows-vm-in-azure.3-exercise-create-a-vm
+title: Create a Windows virtual machine
+metadata:
+  title: Create a Windows virtual machine
+  description: Create a Windows virtual machine
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 93564ba3c30b85235609a880d46aca176730e299
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+azureSandbox: true
+content: '[!include[](includes/3-exercise-create-a-vm.md)]'

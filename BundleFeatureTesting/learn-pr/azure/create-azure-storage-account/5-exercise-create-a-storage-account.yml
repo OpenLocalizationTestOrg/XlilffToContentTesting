@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.create-azure-storage-account.5-exercise-create-a-storage-account
+title: Create a storage account using the Azure portal
+metadata:
+  title: Create a storage account using the Azure portal
+  description: Create a storage account using the Azure portal
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: e2b395c420362d38d6e53c87c53474c340b484a4
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 7
+content: >
+  [!include[](includes/5-exercise-create-a-storage-account.md)]
+tasks:
+- action: exists
+  environment: azure
+  hint: Follow the directions to create a general-purpose v2 storage account.
+  azure:
+    resource:
+      type: Microsoft.Storage/storageAccounts
+      kind: StorageV2

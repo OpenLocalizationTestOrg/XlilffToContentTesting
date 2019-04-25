@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn.azure.app-service-scale-up-scale-out
+metadata:
+  title: Scale an App Service web app to efficiently meet demand with App Service scale up and scale out
+  description: In this module, you'll learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.
+  ms.date: 04/11/2019
+  author: nickwalkmsft
+  ms.author: nickwalk
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 63ec3aeacf7ba65cb052c46b8ff6242c764714e8
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Scale an App Service web app to efficiently meet demand with App Service scale up and scale out
+summary: Respond to periods of increased activity by incrementally increasing the resources available and then, to reduce costs, decreasing these resources when activity drops.
+abstract: "In this module, you will: \n- Scale a web app in and out manually.\n- Scale a web app up and down.\n"
+prerequisites: >
+  - Navigate the Azure portal.
+
+  - Use the Azure portal to create a new App Service web app.
+iconUrl: /learn/achievements/app-service-scale-up-scale-out.svg
+levels:
+- beginner
+roles:
+- developer
+- solution-architect
+- administrator
+products:
+- azure
+units:
+- learn.azure.app-service-scale-up-scale-out.1-introduction
+- learn.azure.app-service-scale-up-scale-out.2-scale-a-web-app-manually
+- learn.azure.app-service-scale-up-scale-out.3-exercise-scale-a-web-app-manually
+- learn.azure.app-service-scale-up-scale-out.4-scale-up-a-web-app
+- learn.azure.app-service-scale-up-scale-out.5-exercise-scale-up-a-web-app
+- learn.azure.app-service-scale-up-scale-out.6-summary
+badge:
+  uid: learn.azure.app-service-scale-up-scale-out.badge

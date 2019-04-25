@@ -1,0 +1,21 @@
+### YamlMime:ModuleUnit
+uid: learn.caching-and-performance-azure-storage-and-disks.4-exercise-enable-and-configure-azure-vm-disk-cache-by-using-the-azure-portal
+title: Exercise - Enable and configure Azure VM disk cache with the Azure portal
+metadata:
+  title: Exercise - Enable and configure Azure VM disk cache with the Azure portal
+  description: Exercise - Enable and configure Azure VM disk cache with the Azure portal
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 5b5f187ea6163345c8eb562d50be7e1f9e9a1fd9
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 10
+content: '[!include[](includes/4-exercise-enable-and-configure-azure-vm-disk-cache-by-using-the-azure-portal.md)]'

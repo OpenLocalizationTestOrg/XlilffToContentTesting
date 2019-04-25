@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.persist-data-ef-core.4-design-domain-model
+metadata:
+  title: Exercise - Design the domain model
+  description: Learn how to design the classes representing the domain model.
+  ms.date: 04/20/2019
+  author: scottaddie
+  ms.author: scaddie
+  ms.topic: interactive-tutorial
+  ms.prod: learning-aspnetcore
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 61cbddcf190d4827562bbddb841b3355b7c81939
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Exercise - Design the domain model
+azureSandbox: true
+interactive: bash-editor
+durationInMinutes: 10
+content: '[!include[](includes/4-design-domain-model.md)]'

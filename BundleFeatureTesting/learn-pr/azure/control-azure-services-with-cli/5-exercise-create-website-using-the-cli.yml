@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn.control-azure-services-with-cli.5-exercise-create-website-using-the-cli
+title: Create an Azure website using the CLI
+metadata:
+  title: Create an Azure website using the CLI
+  description: Work with the Azure CLI to create a new PHP website
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 06e28e0ecf3443c129e47b14dab03d1f23d66724
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 10
+interactive: bash
+azureSandbox: true
+content: >
+  [!include[](includes/5-exercise-create-website-using-the-cli.md)]
+tasks:
+- action: exists
+  environment: azure
+  hint: Run the commands shown to create an App Service plan and web app.
+  azure:
+    resource:
+      type: Microsoft.Web/sites

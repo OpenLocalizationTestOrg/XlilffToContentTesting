@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn.monitor-azure-cosmos-db.6-partition-exercise
+title: Exercise - Measure the impact of partition key choice
+metadata:
+  title: Learn how to measure the impact of different data distribution choices for Azure Cosmos DB
+  description: Visualize data throughput and storage when a partition design results in a hot partition, and evenly distributed partitions
+  ms.date: 02/25/2019
+  author: natke
+  ms.author: nakersha
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 4e5aade33cd79ffc133f6d6dd0f95bf0104614ed
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+azureSandbox: true
+durationInMinutes: 10
+interactive: bash
+content: '[!include[](includes/6-partition-exercise.md)]'

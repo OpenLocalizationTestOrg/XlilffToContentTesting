@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.get-started-with-devops.1-introduction
+metadata:
+  title: Introduction
+  description: Introduction
+  ms.openlocfilehash: d357643e59046289609e100f3c837f8504343e0f
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+title: Introduction
+durationInMinutes: 3
+content: '[!include[](includes/1-introduction.md)]'

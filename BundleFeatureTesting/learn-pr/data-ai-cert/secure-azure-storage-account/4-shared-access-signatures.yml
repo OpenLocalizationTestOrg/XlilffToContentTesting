@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn.azure.secure-azure-storage-account.shared-access-signatures
+title: Understand shared access signatures
+metadata:
+  title: Understand shared access signatures
+  description: Understand shared access signatures
+  ms.date: 01/31/2019
+  author: ctesta-oneillmsft
+  ms.author: chris.testaoneill
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ROBOTS: NOINDEX
+  ms.openlocfilehash: 098d11257f34e64051d852bab829cd6f8b65011d
+  ms.sourcegitcommit: 
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 04/24/2019
+  ms.locfileid: ''
+durationInMinutes: 5
+content: '[!include[](includes/4-shared-access-signatures.md)]'
